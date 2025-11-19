@@ -1,0 +1,401 @@
+Store_Id,Store_Name,City,Store_Cluster,SKU_Id,Brand,Subcategory,SKU_Cluster,Recommended,Currently_Stocked,Gap
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,Yes,No
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,No,Yes - MISSING
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,No,Yes - MISSING
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,No,Yes - MISSING
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S001,MUM_SmallKirana_1,Mumbai,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,No,Yes - MISSING
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,No,Yes - MISSING
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,No,Yes - MISSING
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S002,AHM_SmallKirana_2,Ahmedabad,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,No,Yes - MISSING
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,No,Yes - MISSING
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,No,Yes - MISSING
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,No,Yes - MISSING
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,No,Yes - MISSING
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S005,BEN_SmallKirana_5,Bengaluru,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,No,Yes - MISSING
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,No,Yes - MISSING
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S006,CHE_LargeKirana_6,Chennai,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,No,Yes - MISSING
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S008,PUN_LargeKirana_8,Pune,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,Yes,No
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,Yes,No
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S009,HYD_LargeKirana_9,Hyderabad,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S011,MUM_SmallKirana_11,Mumbai,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,No,Yes - MISSING
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,No,Yes - MISSING
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,Yes,No
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S012,AHM_SmallKirana_12,Ahmedabad,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S013,JAI_Convenience_13,Jaipur,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,No,Yes - MISSING
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,No,Yes - MISSING
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S015,BEN_SmallKirana_15,Bengaluru,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,Yes,No
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,No,Yes - MISSING
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,Yes,No
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S017,KOL_SmallKirana_17,Kolkata,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,Yes,No
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,No,Yes - MISSING
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,No,Yes - MISSING
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,No,Yes - MISSING
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S018,PUN_SmallKirana_18,Pune,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S019,HYD_LargeKirana_19,Hyderabad,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,No,Yes - MISSING
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,No,Yes - MISSING
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,Yes,No
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S020,LUC_SmallKirana_20,Lucknow,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,No,Yes - MISSING
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S022,AHM_SmallKirana_22,Ahmedabad,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S025,BEN_SmallKirana_25,Bengaluru,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,No,Yes - MISSING
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S027,KOL_SmallKirana_27,Kolkata,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,No,Yes - MISSING
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,No,Yes - MISSING
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S028,PUN_SmallKirana_28,Pune,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,No,Yes - MISSING
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,No,Yes - MISSING
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S029,HYD_LargeKirana_29,Hyderabad,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,No,Yes - MISSING
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S030,LUC_SmallKirana_30,Lucknow,Store_Cluster_2,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No

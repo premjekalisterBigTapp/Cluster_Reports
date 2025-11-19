@@ -1,0 +1,31 @@
+Store_Id,Store_Name,City,Store_Cluster,SKU_Id,Brand,Subcategory,SKU_Cluster,Recommended,Currently_Stocked,Gap
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0024,ChillLatte,RTD,SKU_Cluster_2,Yes,No,Yes - MISSING
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0023,CoffeeMorn,RTD,SKU_Cluster_3,Yes,No,Yes - MISSING
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0018,CitrusFizz,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0032,FizzUp,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0039,ClearSpring,Water,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0044,FreshSip,Juice,SKU_Cluster_3,Yes,No,Yes - MISSING
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0014,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0007,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0002,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0033,FizzUp,SoftDrink,SKU_Cluster_1,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0008,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0001,VoltX,Energy,SKU_Cluster_1,Yes,No,Yes - MISSING
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0010,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0037,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0040,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0035,ColaMax,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0049,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0025,AmpFuel,Energy,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0043,VoltX,Energy,SKU_Cluster_3,Yes,No,Yes - MISSING
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0028,TeaTime,RTD,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0030,AmberBrew,Beer,SKU_Cluster_1,Yes,No,Yes - MISSING
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0046,Juicella,Juice,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0029,HoppyAle,Beer,SKU_Cluster_1,Yes,No,Yes - MISSING
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0031,ChillLatte,RTD,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0038,Fruitopia,Juice,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0013,FizzUp,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0019,CitrusFizz,SoftDrink,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0009,FreshSip,Juice,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0021,AquaLife,Water,SKU_Cluster_3,Yes,Yes,No
+S010,LUC_Supermarket_10,Lucknow,Store_Cluster_1,SKU0006,FizzUp,SoftDrink,SKU_Cluster_3,Yes,No,Yes - MISSING

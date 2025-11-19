@@ -1,0 +1,3 @@
+Store_Cluster,Store_Count,Total_Recommended_SKUs,Total_Current_SKUs,Total_Missing_SKUs,Avg_Coverage_Percentage,Avg_Gap_Percentage
+Store_Cluster_1,10,300,239,61,79.7,20.3
+Store_Cluster_2,20,400,306,94,76.5,23.5
