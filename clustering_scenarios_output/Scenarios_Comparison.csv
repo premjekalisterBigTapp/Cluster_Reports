@@ -1,0 +1,7 @@
+Scenario,Description,K_Clusters,Num_Features,Silhouette_Score,Davies_Bouldin,Calinski_Harabasz,Cluster_Distribution
+Scenario_1_k2_AllFeatures,k=2 with ALL features (10 features),2,10,0.298,1.326,8.498,"{'Cluster_1': np.int64(25), 'Cluster_2': np.int64(5)}"
+Scenario_2_k4_AllFeatures,k=4 with ALL features (10 features),4,10,0.204,1.427,7.741,"{'Cluster_1': np.int64(9), 'Cluster_2': np.int64(10), 'Cluster_3': np.int64(5), 'Cluster_4': np.int64(6)}"
+Scenario_3_k6_AllFeatures,k=6 with ALL features (10 features),6,10,0.214,1.078,6.73,"{'Cluster_1': np.int64(2), 'Cluster_2': np.int64(10), 'Cluster_3': np.int64(9), 'Cluster_4': np.int64(2), 'Cluster_5': np.int64(6), 'Cluster_6': np.int64(1)}"
+Scenario_4_k2_ReducedFeatures,"k=2 WITHOUT corp_dist, factory_count, avg_income (7 features)",2,7,0.401,1.071,13.762,"{'Cluster_1': np.int64(25), 'Cluster_2': np.int64(5)}"
+Scenario_5_k4_ReducedFeatures,"k=4 WITHOUT corp_dist, factory_count, avg_income (7 features)",4,7,0.301,1.057,14.01,"{'Cluster_1': np.int64(10), 'Cluster_2': np.int64(6), 'Cluster_3': np.int64(4), 'Cluster_4': np.int64(10)}"
+Scenario_6_k6_ReducedFeatures,"k=6 WITHOUT corp_dist, factory_count, avg_income (7 features)",6,7,0.309,0.994,14.129,"{'Cluster_1': np.int64(3), 'Cluster_2': np.int64(7), 'Cluster_3': np.int64(10), 'Cluster_4': np.int64(2), 'Cluster_5': np.int64(5), 'Cluster_6': np.int64(3)}"
