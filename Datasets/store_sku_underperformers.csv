@@ -1,0 +1,20 @@
+store_id,city,cluster_label,sku_id,category,brand,sku_segment,sales_value,cluster_avg_revenue,performance_gap_pct,performance_status,action_priority,recommendation
+S0001,Kolkata,B,SKU00215,Essentials,PureCare,Premium,209.58,327.0197615499255,-35.91,Underperformer,LOW,Consider reducing stock or replacing
+S0004,Bangalore,A,SKU00063,Staples,FizMax,Premium,102.19,172.9988188976378,-40.93,Underperformer,MEDIUM,Consider reducing stock or replacing
+S0004,Bangalore,A,SKU00194,Essentials,ChillFrost,Value,75.89,119.2045754716981,-36.34,Underperformer,LOW,Consider reducing stock or replacing
+S0031,Pune,D,SKU00057,Kids,Miko,Standard,138.78,207.9728693181818,-33.27,Underperformer,LOW,Consider reducing stock or replacing
+S0042,Mumbai,A,SKU00143,Staples,CoolSip,Value,0.0,22.142358078602623,-100.0,Critical Underperformer,HIGH,Consider reducing stock or replacing
+S0048,Kolkata,B,SKU00170,Snacks,ChillFrost,Premium,97.26,302.0328843338214,-67.8,Critical Underperformer,HIGH,Consider reducing stock or replacing
+S0052,Mumbai,A,SKU00167,Beverages,Miko,Premium,110.01,173.80575342465752,-36.71,Underperformer,LOW,Consider reducing stock or replacing
+S0054,Lucknow,A,SKU00134,Essentials,ChillFrost,Premium,0.0,175.83232558139534,-100.0,Critical Underperformer,HIGH,Consider reducing stock or replacing
+S0054,Lucknow,A,SKU00262,Beverages,Miko,Premium,0.0,126.03824999999999,-100.0,Critical Underperformer,HIGH,Consider reducing stock or replacing
+S0070,Kolkata,B,SKU00188,Frozen,CoolSip,Premium,102.34,321.5119416058394,-68.17,Critical Underperformer,HIGH,Consider reducing stock or replacing
+S0070,Kolkata,B,SKU00171,Frozen,CoolSip,Standard,65.78,201.94940145985402,-67.43,Critical Underperformer,HIGH,Consider reducing stock or replacing
+S0070,Kolkata,B,SKU00122,Frozen,CoolSip,Premium,192.44,287.35972972972974,-33.03,Underperformer,LOW,Consider reducing stock or replacing
+S0071,Chennai,B,SKU00256,Frozen,CoolSip,Value,103.0,162.3533724340176,-36.56,Underperformer,LOW,Consider reducing stock or replacing
+S0071,Chennai,B,SKU00055,Beverages,ChillFrost,Standard,155.78,239.2253046062407,-34.88,Underperformer,LOW,Consider reducing stock or replacing
+S0093,Patna,B,SKU00245,Snacks,BakeWell,Value,134.96,210.88820031298903,-36.0,Underperformer,LOW,Consider reducing stock or replacing
+S0093,Patna,B,SKU00197,Frozen,ChillFrost,Premium,174.58,268.62619195046443,-35.01,Underperformer,LOW,Consider reducing stock or replacing
+S0105,Hyderabad,A,SKU00163,Snacks,FizMax,Standard,55.29,80.62110132158591,-31.42,Underperformer,LOW,Consider reducing stock or replacing
+S0105,Hyderabad,A,SKU00278,Beverages,PureCare,Value,16.84,24.546440677966103,-31.4,Underperformer,LOW,Consider reducing stock or replacing
+S0106,Chennai,B,SKU00087,Beverages,ChillFrost,Value,21.45,66.04426229508196,-67.52,Critical Underperformer,HIGH,Consider reducing stock or replacing

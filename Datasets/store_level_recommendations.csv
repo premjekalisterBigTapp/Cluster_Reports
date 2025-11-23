@@ -1,0 +1,5 @@
+store_id,city,region,cluster,lacking_sku,category,brand,sku_segment,current_revenue,cluster_avg_revenue,gap_pct,potential_revenue_loss,recommendation,reason
+S0001,Kolkata,East,B,SKU00215,Essentials,PureCare,Premium,209.58,327.02,-35.91,117.44,Increase stock & visibility,Performing 35.9% below cluster average
+S0004,Bangalore,South,A,SKU00063,Staples,FizMax,Premium,102.19,173.0,-40.93,70.81,Increase stock & visibility,Performing 40.9% below cluster average
+S0070,Kolkata,East,B,SKU00188,Frozen,CoolSip,Premium,102.34,321.51,-68.17,219.17,Increase stock & visibility,Performing 68.2% below cluster average
+S0110,Patna,East,D,SKU00016,Staples,BakeWell,Premium,231.48,324.27,-28.62,92.79,Increase stock & visibility,Performing 28.6% below cluster average

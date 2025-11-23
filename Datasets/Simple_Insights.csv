@@ -1,0 +1,121 @@
+store_id,city,region,cluster_label,cluster_persona,footfall,avg_temperature,income_level,area_type,total_sales_value,total_sales_units
+S0085,Bhubaneswar,East,A,High Footfall + Urban + High Income,470,36.1,8,Near Schools,1156397.74,17004
+S0016,Chennai,South,A,High Footfall + Urban + High Income,466,26.6,9,Residential,1142366.28,17049
+S0116,Lucknow,North,A,High Footfall + Urban + High Income,450,40.3,8,Urban,1091893.05,16294
+S0096,Ahmedabad,West,A,High Footfall + Urban + High Income,439,31.0,9,Hot Climate,1074542.38,15990
+S0120,Chandigarh,North,A,High Footfall + Urban + High Income,397,30.6,9,Urban,971081.9,14413
+S0097,Pune,West,A,High Footfall + Urban + High Income,384,20.8,9,Hot Climate,925210.05,13953
+S0009,Lucknow,North,A,High Footfall + Urban + High Income,368,33.3,8,Near Schools,907169.85,13324
+S0072,Kolkata,East,A,High Footfall + Urban + High Income,373,31.7,9,Residential,903285.53,13532
+S0026,Patna,East,A,High Footfall + Urban + High Income,356,31.1,9,Residential,889629.79,13251
+S0045,Bangalore,South,A,High Footfall + Urban + High Income,347,29.4,8,Hot Climate,866100.52,12823
+S0076,Bhubaneswar,East,A,High Footfall + Urban + High Income,326,21.1,9,Urban,789379.99,11699
+S0022,Lucknow,North,A,High Footfall + Urban + High Income,312,27.7,9,Urban,775426.36,11473
+S0006,Lucknow,North,A,High Footfall + Urban + High Income,297,29.9,7,Residential,724516.13,10943
+S0033,Chennai,South,A,High Footfall + Urban + High Income,259,20.9,7,Urban,632030.42,9429
+S0109,Kolkata,East,A,High Footfall + Urban + High Income,260,33.3,6,Near Schools,631045.06,9389
+S0050,Bangalore,South,A,High Footfall + Urban + High Income,244,25.1,9,Hot Climate,614236.9,9173
+S0027,Kolkata,East,A,High Footfall + Urban + High Income,251,40.7,7,Urban,607057.29,9131
+S0024,Delhi,North,A,High Footfall + Urban + High Income,240,20.4,9,Industrial,588829.62,8826
+S0087,Chandigarh,North,A,High Footfall + Urban + High Income,238,28.3,9,Hot Climate,582323.8,8672
+S0095,Bhubaneswar,East,A,High Footfall + Urban + High Income,235,24.7,8,Residential,575139.04,8579
+S0084,Patna,East,A,High Footfall + Urban + High Income,232,27.8,8,Urban,548766.45,8209
+S0074,Hyderabad,South,A,High Footfall + Urban + High Income,190,36.2,9,Industrial,474884.04,6997
+S0086,Chandigarh,North,A,High Footfall + Urban + High Income,176,35.6,8,Urban,429128.65,6407
+S0040,Chennai,South,A,High Footfall + Urban + High Income,175,38.8,6,Near Schools,428245.12,6348
+S0077,Chennai,South,A,High Footfall + Urban + High Income,173,23.8,7,Urban,415358.12,6249
+S0114,Ahmedabad,West,A,High Footfall + Urban + High Income,160,34.5,9,Hot Climate,391036.99,5859
+S0110,Patna,East,A,High Footfall + Urban + High Income,134,34.6,7,Residential,323317.88,4813
+S0031,Pune,West,A,High Footfall + Urban + High Income,115,37.6,9,Urban,283079.66,4212
+S0017,Kolkata,East,B,Residential + Medium Footfall,464,25.3,5,Urban,1132790.3,16803
+S0081,Chennai,South,B,Residential + Medium Footfall,455,41.8,5,Hot Climate,1123306.67,16769
+S0055,Lucknow,North,B,Residential + Medium Footfall,409,40.9,7,Industrial,998683.29,14833
+S0063,Mumbai,West,B,Residential + Medium Footfall,392,33.0,8,Near Schools,971739.25,14405
+S0069,Chandigarh,North,B,Residential + Medium Footfall,380,27.1,2,Residential,938482.77,13864
+S0089,Chennai,South,B,Residential + Medium Footfall,381,33.5,9,Residential,916500.87,13744
+S0039,Lucknow,North,B,Residential + Medium Footfall,368,30.2,3,Industrial,898363.97,13427
+S0032,Bhubaneswar,East,B,Residential + Medium Footfall,367,32.7,4,Residential,897069.5,13380
+S0037,Delhi,North,B,Residential + Medium Footfall,351,31.4,8,Urban,860360.66,12655
+S0034,Mumbai,West,B,Residential + Medium Footfall,341,21.1,7,Industrial,848943.47,12462
+S0044,Mumbai,West,B,Residential + Medium Footfall,328,32.1,2,Hot Climate,794684.38,11954
+S0060,Bhubaneswar,East,B,Residential + Medium Footfall,276,42.0,4,Industrial,672149.56,10010
+S0103,Bhubaneswar,East,B,Residential + Medium Footfall,274,33.0,6,Residential,653850.82,9879
+S0080,Lucknow,North,B,Residential + Medium Footfall,251,24.4,3,Residential,614154.65,9094
+S0102,Lucknow,North,B,Residential + Medium Footfall,226,22.7,5,Hot Climate,558134.03,8238
+S0073,Lucknow,North,B,Residential + Medium Footfall,205,22.6,6,Residential,512121.81,7621
+S0062,Pune,West,B,Residential + Medium Footfall,174,22.5,3,Industrial,418970.07,6239
+S0043,Chandigarh,North,B,Residential + Medium Footfall,169,27.5,2,Residential,418717.64,6168
+S0047,Bhubaneswar,East,B,Residential + Medium Footfall,148,26.5,5,Hot Climate,363966.91,5378
+S0048,Kolkata,East,B,Residential + Medium Footfall,121,41.4,8,Hot Climate,302006.93,4525
+S0071,Chennai,South,B,Residential + Medium Footfall,107,28.1,3,Residential,261302.42,3973
+S0093,Patna,East,B,Residential + Medium Footfall,104,39.0,8,Industrial,246829.98,3703
+S0091,Mumbai,West,C,Near Schools,486,22.7,6,Near Schools,1198081.33,17774
+S0030,Bangalore,South,C,Near Schools,472,35.5,6,Urban,1174811.85,17425
+S0011,Hyderabad,South,C,Near Schools,472,35.6,3,Near Schools,1173924.06,17307
+S0049,Chennai,South,C,Near Schools,480,22.2,7,Industrial,1158079.21,17537
+S0119,Chandigarh,North,C,Near Schools,461,29.2,3,Industrial,1127947.48,16771
+S0079,Pune,West,C,Near Schools,461,23.4,6,Hot Climate,1125811.91,16689
+S0041,Pune,West,C,Near Schools,459,22.8,4,Near Schools,1120471.19,16820
+S0111,Patna,East,C,Near Schools,444,23.4,3,Urban,1111087.24,16151
+S0003,Ahmedabad,West,C,Near Schools,443,31.3,2,Near Schools,1095871.94,16200
+S0058,Chennai,South,C,Near Schools,444,23.6,2,Near Schools,1089637.75,16053
+S0051,Ahmedabad,West,C,Near Schools,443,32.3,3,Near Schools,1067417.13,15942
+S0065,Chandigarh,North,C,Near Schools,414,28.7,3,Urban,1025668.67,15053
+S0068,Hyderabad,South,C,Near Schools,356,23.7,3,Near Schools,871031.57,13034
+S0023,Pune,West,C,Near Schools,333,20.2,2,Industrial,821939.85,12198
+S0100,Ahmedabad,West,C,Near Schools,334,20.4,2,Near Schools,820173.08,12094
+S0064,Bhubaneswar,East,C,Near Schools,305,27.7,3,Industrial,755756.24,11122
+S0012,Mumbai,West,C,Near Schools,301,23.1,6,Industrial,746119.85,11190
+S0046,Mumbai,West,C,Near Schools,266,22.2,5,Hot Climate,649478.29,9779
+S0005,Lucknow,North,D,Hot Climate + Low Footfall,285,28.6,5,Near Schools,696290.11,10354
+S0066,Bangalore,South,D,Hot Climate + Low Footfall,284,24.6,9,Residential,682665.6,10196
+S0015,Lucknow,North,D,Hot Climate + Low Footfall,251,25.4,7,Residential,617982.93,9208
+S0036,Kolkata,East,D,Hot Climate + Low Footfall,208,23.8,8,Industrial,520775.87,7668
+S0098,Chennai,South,D,Hot Climate + Low Footfall,192,28.8,4,Industrial,474218.89,7017
+S0117,Hyderabad,South,D,Hot Climate + Low Footfall,182,20.8,9,Residential,440753.86,6603
+S0028,Chandigarh,North,D,Hot Climate + Low Footfall,174,41.2,5,Hot Climate,426458.61,6277
+S0061,Kolkata,East,D,Hot Climate + Low Footfall,157,24.5,4,Hot Climate,381657.82,5665
+S0008,Delhi,North,D,Hot Climate + Low Footfall,144,20.3,9,Hot Climate,359892.96,5317
+S0013,Patna,East,D,Hot Climate + Low Footfall,145,33.7,2,Industrial,353458.1,5271
+S0053,Chandigarh,North,D,Hot Climate + Low Footfall,123,41.5,6,Residential,308848.48,4475
+S0057,Delhi,North,D,Hot Climate + Low Footfall,125,21.7,3,Hot Climate,303404.75,4474
+S0083,Mumbai,West,D,Hot Climate + Low Footfall,121,28.6,9,Hot Climate,300894.8,4449
+S0118,Bhubaneswar,East,D,Hot Climate + Low Footfall,118,26.9,5,Industrial,289912.05,4378
+S0054,Lucknow,North,D,Hot Climate + Low Footfall,99,21.7,2,Near Schools,247282.42,3663
+S0042,Mumbai,West,D,Hot Climate + Low Footfall,91,22.2,6,Hot Climate,229008.81,3412
+S0105,Hyderabad,South,D,Hot Climate + Low Footfall,93,36.3,2,Urban,228838.37,3411
+S0004,Bangalore,South,D,Hot Climate + Low Footfall,93,37.8,3,Industrial,225572.72,3417
+S0052,Mumbai,West,D,Hot Climate + Low Footfall,80,35.0,7,Urban,196951.27,2936
+S0088,Mumbai,West,E,Industrial Areas,490,34.1,5,Residential,1205982.68,17916
+S0092,Bhubaneswar,East,E,Industrial Areas,478,28.8,6,Near Schools,1182830.77,17505
+S0101,Bhubaneswar,East,E,Industrial Areas,479,28.7,6,Near Schools,1174104.11,17579
+S0025,Mumbai,West,E,Industrial Areas,450,34.0,7,Industrial,1113643.37,16573
+S0099,Bhubaneswar,East,E,Industrial Areas,445,31.6,8,Residential,1099023.92,16187
+S0115,Bhubaneswar,East,E,Industrial Areas,444,34.7,3,Urban,1098936.86,16243
+S0067,Bhubaneswar,East,E,Industrial Areas,439,35.3,4,Industrial,1077834.21,15981
+S0059,Chandigarh,North,E,Industrial Areas,421,38.2,2,Urban,1042633.01,15346
+S0104,Ahmedabad,West,E,Industrial Areas,421,37.2,3,Industrial,1025068.56,15170
+S0075,Pune,West,E,Industrial Areas,394,41.7,2,Residential,989132.28,14591
+S0090,Mumbai,West,E,Industrial Areas,407,34.3,5,Hot Climate,979375.55,14694
+S0056,Pune,West,E,Industrial Areas,395,32.8,6,Residential,975732.33,14438
+S0038,Kolkata,East,E,Industrial Areas,364,22.6,8,Urban,898945.51,13434
+S0113,Chennai,South,E,Industrial Areas,354,26.9,4,Industrial,878926.69,13028
+S0018,Patna,East,E,Industrial Areas,334,37.7,5,Urban,838413.47,12347
+S0019,Lucknow,North,E,Industrial Areas,338,33.0,5,Hot Climate,816086.62,12353
+S0082,Lucknow,North,E,Industrial Areas,308,24.4,4,Urban,753353.37,11262
+S0029,Pune,West,E,Industrial Areas,302,38.6,9,Urban,752545.74,11089
+S0007,Kolkata,East,E,Industrial Areas,287,36.4,6,Hot Climate,716258.37,10511
+S0002,Chennai,South,E,Industrial Areas,271,41.8,5,Residential,655148.69,9799
+S0094,Ahmedabad,West,E,Industrial Areas,261,23.9,5,Near Schools,641615.33,9504
+S0108,Lucknow,North,E,Industrial Areas,252,38.4,5,Residential,619111.83,9213
+S0107,Chennai,South,E,Industrial Areas,244,34.3,5,Urban,608377.26,8963
+S0021,Hyderabad,South,E,Industrial Areas,223,38.0,5,Industrial,557997.1,8182
+S0035,Pune,West,E,Industrial Areas,224,28.8,5,Near Schools,552099.21,8234
+S0020,Kolkata,East,E,Industrial Areas,207,31.4,2,Urban,495552.61,7542
+S0078,Mumbai,West,E,Industrial Areas,197,35.6,2,Residential,486574.06,7223
+S0014,Delhi,North,E,Industrial Areas,200,38.0,4,Near Schools,486491.96,7252
+S0106,Chennai,South,E,Industrial Areas,188,35.2,4,Hot Climate,464022.74,6896
+S0112,Delhi,North,E,Industrial Areas,183,29.6,4,Near Schools,443403.82,6603
+S0010,Bangalore,South,E,Industrial Areas,178,33.0,4,Hot Climate,441441.67,6546
+S0001,Kolkata,East,E,Industrial Areas,151,33.2,3,Near Schools,369956.58,5490
+S0070,Kolkata,East,E,Industrial Areas,105,39.1,2,Urban,256568.73,3902

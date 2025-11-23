@@ -1,0 +1,11 @@
+scenario,footfall,temperature,price,cooler_capacity,target_margin_pct,predicted_units,predicted_value,predicted_margin,predicted_beverage_sales,beverages_demand,snacks_demand,frozen_demand,kids_demand,essentials_demand,staples_demand,reorder_quantity,price_adjustment_recommendation,sku_replacement_recommendation,value_change_pct,margin_change_pct
+Base Case,151.0,33.2,50.0,330.0,35.0,1.47,69.58,24.35,74.06,74.06,68.34,66.57,62.01,90.33,79.04,1,Reduce price by 5-10%,Maintain current SKU mix,0.0,0.0
+Footfall +10%,166.10000000000002,33.2,50.0,330.0,35.0,1.74,80.73,28.26,81.66,81.66,72.57,74.0,72.78,95.16,81.26,2,Reduce price by 5-10%,Maintain current SKU mix,16.02,16.06
+Footfall -10%,135.9,33.2,50.0,330.0,35.0,1.28,65.13,22.8,58.3,58.3,58.09,65.68,59.45,66.71,74.82,1,Reduce price by 5-10%,Maintain current SKU mix,-6.4,-6.37
+Temperature +5 degC,151.0,38.2,50.0,330.0,35.0,1.47,69.68,24.39,73.83,73.83,69.76,66.57,61.82,91.17,78.12,1,Reduce price by 5-10%,Maintain current SKU mix,0.14,0.16
+Temperature -5 degC,151.0,28.200000000000003,50.0,330.0,35.0,1.47,69.74,24.41,74.51,74.51,68.15,66.57,61.92,90.88,79.54,1,Reduce price by 5-10%,Maintain current SKU mix,0.23,0.25
+Price +10%,151.0,33.2,55.00000000000001,330.0,35.0,1.49,76.16,26.66,79.08,79.08,80.13,72.22,75.61,90.21,92.72,1,Reduce price by 5-10%,Maintain current SKU mix,9.46,9.49
+Price -10%,151.0,33.2,45.0,330.0,35.0,1.5,69.88,24.46,71.81,71.81,59.36,63.71,56.39,69.91,78.3,1,Reduce price by 5-10%,Maintain current SKU mix,0.43,0.45
+Chiller +20%,151.0,33.2,50.0,396.0,35.0,1.47,69.58,24.35,74.06,74.06,68.34,66.57,62.01,90.33,79.04,1,Reduce price by 5-10%,Maintain current SKU mix,0.0,0.0
+Target Margin +5%,151.0,33.2,50.0,330.0,40.0,1.48,69.66,27.86,72.94,72.94,68.32,66.57,62.01,90.33,79.04,1,Reduce price by 5-10%,Focus on Premium SKUs,0.11,14.41
+Target Margin -5%,151.0,33.2,50.0,330.0,30.0,1.5,70.56,21.17,74.15,74.15,68.34,66.57,62.81,90.12,81.89,1,Reduce price by 5-10%,Include more Value SKUs,1.41,-13.06
