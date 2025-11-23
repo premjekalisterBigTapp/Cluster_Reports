@@ -1,0 +1,6 @@
+cluster,category,total_sales,total_units,unique_skus,sales_share_pct,recommendation
+A,Beverages,196676543.7,2298316,360,100.0,Core Category - Expand Range
+B,Beverages,67401546.8,1306328,360,100.0,Core Category - Expand Range
+C,Beverages,57991893.2,1156302,360,100.0,Core Category - Expand Range
+D,Beverages,63085547.85,1182316,360,100.0,Core Category - Expand Range
+E,Beverages,101702408.4,1963491,360,100.0,Core Category - Expand Range

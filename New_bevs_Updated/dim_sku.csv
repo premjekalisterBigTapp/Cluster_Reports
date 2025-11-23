@@ -1,0 +1,361 @@
+sku_id,category,subcategory,brand,pack_size,pack_size_num,container,price,cost,margin_pct,seasonality,cluster_preference,sku_segment
+SKU00001,Beverages,Cola,Campa Cola,200ml,200,Can,14.0,9.1,35,Summer,"A,B,C,D,E",Economy
+SKU00002,Beverages,Cola,Campa Cola,250ml,250,Can,15.0,9.75,35,Summer,"A,B,C,D,E",Economy
+SKU00003,Beverages,Cola,Campa Cola,300ml,300,Can,16.0,10.4,35,Summer,"A,B,C,D,E",Economy
+SKU00004,Beverages,Cola,Campa Cola,500ml,500,PET,20.0,13.0,35,Summer,"A,B,C,D,E",Economy
+SKU00005,Beverages,Cola,Campa Cola,600ml,600,PET,22.0,14.3,35,Summer,"A,B,C,D,E",Economy
+SKU00006,Beverages,Cola,Campa Cola,750ml,750,PET,25.0,16.25,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00007,Beverages,Cola,Campa Cola,1000ml,1000,PET,30.0,19.5,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00008,Beverages,Cola,Campa Cola,1250ml,1250,PET,35.0,22.75,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00009,Beverages,Cola,Campa Cola,1500ml,1500,PET,40.0,26.0,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00010,Beverages,Cola,Campa Cola,2000ml,2000,PET,50.0,32.5,35,Summer,"A,B,C,D,E",Premium
+SKU00011,Beverages,Cola,Thums Up,200ml,200,Can,14.0,9.1,35,Summer,"A,B,C,D,E",Economy
+SKU00012,Beverages,Cola,Thums Up,250ml,250,Can,15.0,9.75,35,Summer,"A,B,C,D,E",Economy
+SKU00013,Beverages,Cola,Thums Up,300ml,300,Can,16.0,10.4,35,Summer,"A,B,C,D,E",Economy
+SKU00014,Beverages,Cola,Thums Up,500ml,500,PET,20.0,13.0,35,Summer,"A,B,C,D,E",Economy
+SKU00015,Beverages,Cola,Thums Up,600ml,600,PET,22.0,14.3,35,Summer,"A,B,C,D,E",Economy
+SKU00016,Beverages,Cola,Thums Up,750ml,750,PET,25.0,16.25,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00017,Beverages,Cola,Thums Up,1000ml,1000,PET,30.0,19.5,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00018,Beverages,Cola,Thums Up,1250ml,1250,PET,35.0,22.75,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00019,Beverages,Cola,Thums Up,1500ml,1500,PET,40.0,26.0,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00020,Beverages,Cola,Thums Up,2000ml,2000,PET,50.0,32.5,35,Summer,"A,B,C,D,E",Premium
+SKU00021,Beverages,Cola,Coca-Cola,200ml,200,Can,14.0,9.1,35,Summer,"A,B,C,D,E",Economy
+SKU00022,Beverages,Cola,Coca-Cola,250ml,250,Can,15.0,9.75,35,Summer,"A,B,C,D,E",Economy
+SKU00023,Beverages,Cola,Coca-Cola,300ml,300,Can,16.0,10.4,35,Summer,"A,B,C,D,E",Economy
+SKU00024,Beverages,Cola,Coca-Cola,500ml,500,PET,20.0,13.0,35,Summer,"A,B,C,D,E",Economy
+SKU00025,Beverages,Cola,Coca-Cola,600ml,600,PET,22.0,14.3,35,Summer,"A,B,C,D,E",Economy
+SKU00026,Beverages,Cola,Coca-Cola,750ml,750,PET,25.0,16.25,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00027,Beverages,Cola,Coca-Cola,1000ml,1000,PET,30.0,19.5,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00028,Beverages,Cola,Coca-Cola,1250ml,1250,PET,35.0,22.75,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00029,Beverages,Cola,Coca-Cola,1500ml,1500,PET,40.0,26.0,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00030,Beverages,Cola,Coca-Cola,2000ml,2000,PET,50.0,32.5,35,Summer,"A,B,C,D,E",Premium
+SKU00031,Beverages,Cola,Pepsi,200ml,200,Can,14.0,9.1,35,Summer,"A,B,C,D,E",Economy
+SKU00032,Beverages,Cola,Pepsi,250ml,250,Can,15.0,9.75,35,Summer,"A,B,C,D,E",Economy
+SKU00033,Beverages,Cola,Pepsi,300ml,300,Can,16.0,10.4,35,Summer,"A,B,C,D,E",Economy
+SKU00034,Beverages,Cola,Pepsi,500ml,500,PET,20.0,13.0,35,Summer,"A,B,C,D,E",Economy
+SKU00035,Beverages,Cola,Pepsi,600ml,600,PET,22.0,14.3,35,Summer,"A,B,C,D,E",Economy
+SKU00036,Beverages,Cola,Pepsi,750ml,750,PET,25.0,16.25,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00037,Beverages,Cola,Pepsi,1000ml,1000,PET,30.0,19.5,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00038,Beverages,Cola,Pepsi,1250ml,1250,PET,35.0,22.75,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00039,Beverages,Cola,Pepsi,1500ml,1500,PET,40.0,26.0,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00040,Beverages,Cola,Pepsi,2000ml,2000,PET,50.0,32.5,35,Summer,"A,B,C,D,E",Premium
+SKU00041,Beverages,Cola,RC Cola,250ml,250,Can,15.0,9.75,35,Summer,"A,B,C,D,E",Economy
+SKU00042,Beverages,Cola,RC Cola,500ml,500,PET,20.0,13.0,35,Summer,"A,B,C,D,E",Economy
+SKU00043,Beverages,Cola,RC Cola,750ml,750,PET,25.0,16.25,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00044,Beverages,Cola,RC Cola,1000ml,1000,PET,30.0,19.5,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00045,Beverages,Cola,RC Cola,2000ml,2000,PET,50.0,32.5,35,Summer,"A,B,C,D,E",Premium
+SKU00046,Beverages,Lemon,Leomon,200ml,200,Can,13.6,9.25,32,Summer,"A,B,C,D,E",Economy
+SKU00047,Beverages,Lemon,Leomon,250ml,250,Can,14.5,9.86,32,Summer,"A,B,C,D,E",Economy
+SKU00048,Beverages,Lemon,Leomon,300ml,300,Can,15.4,10.47,32,Summer,"A,B,C,D,E",Economy
+SKU00049,Beverages,Lemon,Leomon,500ml,500,PET,19.0,12.92,32,Summer,"A,B,C,D,E",Economy
+SKU00050,Beverages,Lemon,Leomon,600ml,600,PET,20.8,14.14,32,Summer,"A,B,C,D,E",Economy
+SKU00051,Beverages,Lemon,Leomon,750ml,750,PET,23.5,15.98,32,Summer,"A,B,C,D,E",Economy
+SKU00052,Beverages,Lemon,Leomon,1000ml,1000,PET,28.0,19.04,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00053,Beverages,Lemon,Leomon,1250ml,1250,PET,32.5,22.1,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00054,Beverages,Lemon,Leomon,1500ml,1500,PET,37.0,25.16,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00055,Beverages,Lemon,Leomon,2000ml,2000,PET,46.0,31.28,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00056,Beverages,Lemon,Limca,200ml,200,Can,13.6,9.25,32,Summer,"A,B,C,D,E",Economy
+SKU00057,Beverages,Lemon,Limca,250ml,250,Can,14.5,9.86,32,Summer,"A,B,C,D,E",Economy
+SKU00058,Beverages,Lemon,Limca,300ml,300,Can,15.4,10.47,32,Summer,"A,B,C,D,E",Economy
+SKU00059,Beverages,Lemon,Limca,500ml,500,PET,19.0,12.92,32,Summer,"A,B,C,D,E",Economy
+SKU00060,Beverages,Lemon,Limca,600ml,600,PET,20.8,14.14,32,Summer,"A,B,C,D,E",Economy
+SKU00061,Beverages,Lemon,Limca,750ml,750,PET,23.5,15.98,32,Summer,"A,B,C,D,E",Economy
+SKU00062,Beverages,Lemon,Limca,1000ml,1000,PET,28.0,19.04,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00063,Beverages,Lemon,Limca,1250ml,1250,PET,32.5,22.1,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00064,Beverages,Lemon,Limca,1500ml,1500,PET,37.0,25.16,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00065,Beverages,Lemon,Limca,2000ml,2000,PET,46.0,31.28,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00066,Beverages,Lemon,Sprite,200ml,200,Can,13.6,9.25,32,Summer,"A,B,C,D,E",Economy
+SKU00067,Beverages,Lemon,Sprite,250ml,250,Can,14.5,9.86,32,Summer,"A,B,C,D,E",Economy
+SKU00068,Beverages,Lemon,Sprite,300ml,300,Can,15.4,10.47,32,Summer,"A,B,C,D,E",Economy
+SKU00069,Beverages,Lemon,Sprite,500ml,500,PET,19.0,12.92,32,Summer,"A,B,C,D,E",Economy
+SKU00070,Beverages,Lemon,Sprite,600ml,600,PET,20.8,14.14,32,Summer,"A,B,C,D,E",Economy
+SKU00071,Beverages,Lemon,Sprite,750ml,750,PET,23.5,15.98,32,Summer,"A,B,C,D,E",Economy
+SKU00072,Beverages,Lemon,Sprite,1000ml,1000,PET,28.0,19.04,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00073,Beverages,Lemon,Sprite,1250ml,1250,PET,32.5,22.1,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00074,Beverages,Lemon,Sprite,1500ml,1500,PET,37.0,25.16,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00075,Beverages,Lemon,Sprite,2000ml,2000,PET,46.0,31.28,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00076,Beverages,Lemon,7UP,200ml,200,Can,13.6,9.25,32,Summer,"A,B,C,D,E",Economy
+SKU00077,Beverages,Lemon,7UP,250ml,250,Can,14.5,9.86,32,Summer,"A,B,C,D,E",Economy
+SKU00078,Beverages,Lemon,7UP,300ml,300,Can,15.4,10.47,32,Summer,"A,B,C,D,E",Economy
+SKU00079,Beverages,Lemon,7UP,500ml,500,PET,19.0,12.92,32,Summer,"A,B,C,D,E",Economy
+SKU00080,Beverages,Lemon,7UP,600ml,600,PET,20.8,14.14,32,Summer,"A,B,C,D,E",Economy
+SKU00081,Beverages,Lemon,7UP,750ml,750,PET,23.5,15.98,32,Summer,"A,B,C,D,E",Economy
+SKU00082,Beverages,Lemon,7UP,1000ml,1000,PET,28.0,19.04,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00083,Beverages,Lemon,7UP,1250ml,1250,PET,32.5,22.1,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00084,Beverages,Lemon,7UP,1500ml,1500,PET,37.0,25.16,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00085,Beverages,Lemon,7UP,2000ml,2000,PET,46.0,31.28,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00086,Beverages,Lemon,Mountain Dew,250ml,250,Can,14.5,9.86,32,Summer,"A,B,C,D,E",Economy
+SKU00087,Beverages,Lemon,Mountain Dew,500ml,500,PET,19.0,12.92,32,Summer,"A,B,C,D,E",Economy
+SKU00088,Beverages,Lemon,Mountain Dew,750ml,750,PET,23.5,15.98,32,Summer,"A,B,C,D,E",Economy
+SKU00089,Beverages,Lemon,Mountain Dew,1000ml,1000,PET,28.0,19.04,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00090,Beverages,Lemon,Mountain Dew,2000ml,2000,PET,46.0,31.28,32,Summer,"A,B,C,D,E",Mid-Range
+SKU00091,Beverages,Fruit Drink,Bovonto,200ml,200,Glass,16.0,11.2,30,Summer,"A,B,C,D,E",Economy
+SKU00092,Beverages,Fruit Drink,Bovonto,220ml,220,Glass,16.4,11.48,30,Summer,"A,B,C,D,E",Economy
+SKU00093,Beverages,Fruit Drink,Bovonto,250ml,250,Glass,17.0,11.9,30,Summer,"A,B,C,D,E",Economy
+SKU00094,Beverages,Fruit Drink,Bovonto,280ml,280,Glass,17.6,12.32,30,Summer,"A,B,C,D,E",Economy
+SKU00095,Beverages,Fruit Drink,Bovonto,300ml,300,Glass,18.0,12.6,30,Summer,"A,B,C,D,E",Economy
+SKU00096,Beverages,Fruit Drink,Bovonto,400ml,400,PET,20.0,14.0,30,Summer,"A,B,C,D,E",Economy
+SKU00097,Beverages,Fruit Drink,Bovonto,500ml,500,PET,22.0,15.4,30,Summer,"A,B,C,D,E",Economy
+SKU00098,Beverages,Fruit Drink,Bovonto,600ml,600,PET,24.0,16.8,30,Summer,"A,B,C,D,E",Economy
+SKU00099,Beverages,Fruit Drink,Bovonto,750ml,750,PET,27.0,18.9,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00100,Beverages,Fruit Drink,Bovonto,1000ml,1000,PET,32.0,22.4,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00101,Beverages,Fruit Drink,Bovonto,1500ml,1500,PET,42.0,29.4,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00102,Beverages,Fruit Drink,Slice,200ml,200,PET,16.0,11.2,30,Summer,"A,B,C,D,E",Economy
+SKU00103,Beverages,Fruit Drink,Slice,220ml,220,PET,16.4,11.48,30,Summer,"A,B,C,D,E",Economy
+SKU00104,Beverages,Fruit Drink,Slice,250ml,250,PET,17.0,11.9,30,Summer,"A,B,C,D,E",Economy
+SKU00105,Beverages,Fruit Drink,Slice,280ml,280,PET,17.6,12.32,30,Summer,"A,B,C,D,E",Economy
+SKU00106,Beverages,Fruit Drink,Slice,300ml,300,PET,18.0,12.6,30,Summer,"A,B,C,D,E",Economy
+SKU00107,Beverages,Fruit Drink,Slice,400ml,400,PET,20.0,14.0,30,Summer,"A,B,C,D,E",Economy
+SKU00108,Beverages,Fruit Drink,Slice,500ml,500,PET,22.0,15.4,30,Summer,"A,B,C,D,E",Economy
+SKU00109,Beverages,Fruit Drink,Slice,600ml,600,PET,24.0,16.8,30,Summer,"A,B,C,D,E",Economy
+SKU00110,Beverages,Fruit Drink,Slice,750ml,750,PET,27.0,18.9,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00111,Beverages,Fruit Drink,Slice,1000ml,1000,PET,32.0,22.4,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00112,Beverages,Fruit Drink,Slice,1250ml,1250,PET,37.0,25.9,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00113,Beverages,Fruit Drink,Slice,1500ml,1500,PET,42.0,29.4,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00114,Beverages,Fruit Drink,Maaza,200ml,200,PET,16.0,11.2,30,Summer,"A,B,C,D,E",Economy
+SKU00115,Beverages,Fruit Drink,Maaza,220ml,220,PET,16.4,11.48,30,Summer,"A,B,C,D,E",Economy
+SKU00116,Beverages,Fruit Drink,Maaza,250ml,250,PET,17.0,11.9,30,Summer,"A,B,C,D,E",Economy
+SKU00117,Beverages,Fruit Drink,Maaza,280ml,280,PET,17.6,12.32,30,Summer,"A,B,C,D,E",Economy
+SKU00118,Beverages,Fruit Drink,Maaza,300ml,300,PET,18.0,12.6,30,Summer,"A,B,C,D,E",Economy
+SKU00119,Beverages,Fruit Drink,Maaza,400ml,400,PET,20.0,14.0,30,Summer,"A,B,C,D,E",Economy
+SKU00120,Beverages,Fruit Drink,Maaza,500ml,500,PET,22.0,15.4,30,Summer,"A,B,C,D,E",Economy
+SKU00121,Beverages,Fruit Drink,Maaza,600ml,600,PET,24.0,16.8,30,Summer,"A,B,C,D,E",Economy
+SKU00122,Beverages,Fruit Drink,Maaza,750ml,750,PET,27.0,18.9,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00123,Beverages,Fruit Drink,Maaza,1000ml,1000,PET,32.0,22.4,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00124,Beverages,Fruit Drink,Maaza,1250ml,1250,PET,37.0,25.9,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00125,Beverages,Fruit Drink,Maaza,1500ml,1500,PET,42.0,29.4,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00126,Beverages,Fruit Drink,Fanta,200ml,200,PET,16.0,11.2,30,Summer,"A,B,C,D,E",Economy
+SKU00127,Beverages,Fruit Drink,Fanta,220ml,220,PET,16.4,11.48,30,Summer,"A,B,C,D,E",Economy
+SKU00128,Beverages,Fruit Drink,Fanta,250ml,250,PET,17.0,11.9,30,Summer,"A,B,C,D,E",Economy
+SKU00129,Beverages,Fruit Drink,Fanta,280ml,280,PET,17.6,12.32,30,Summer,"A,B,C,D,E",Economy
+SKU00130,Beverages,Fruit Drink,Fanta,300ml,300,PET,18.0,12.6,30,Summer,"A,B,C,D,E",Economy
+SKU00131,Beverages,Fruit Drink,Fanta,400ml,400,PET,20.0,14.0,30,Summer,"A,B,C,D,E",Economy
+SKU00132,Beverages,Fruit Drink,Fanta,500ml,500,PET,22.0,15.4,30,Summer,"A,B,C,D,E",Economy
+SKU00133,Beverages,Fruit Drink,Fanta,600ml,600,PET,24.0,16.8,30,Summer,"A,B,C,D,E",Economy
+SKU00134,Beverages,Fruit Drink,Fanta,750ml,750,PET,27.0,18.9,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00135,Beverages,Fruit Drink,Fanta,1000ml,1000,PET,32.0,22.4,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00136,Beverages,Fruit Drink,Fanta,1250ml,1250,PET,37.0,25.9,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00137,Beverages,Fruit Drink,Fanta,1500ml,1500,PET,42.0,29.4,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00138,Beverages,Fruit Drink,Mirinda,200ml,200,PET,16.0,11.2,30,Summer,"A,B,C,D,E",Economy
+SKU00139,Beverages,Fruit Drink,Mirinda,220ml,220,PET,16.4,11.48,30,Summer,"A,B,C,D,E",Economy
+SKU00140,Beverages,Fruit Drink,Mirinda,250ml,250,PET,17.0,11.9,30,Summer,"A,B,C,D,E",Economy
+SKU00141,Beverages,Fruit Drink,Mirinda,280ml,280,PET,17.6,12.32,30,Summer,"A,B,C,D,E",Economy
+SKU00142,Beverages,Fruit Drink,Mirinda,300ml,300,PET,18.0,12.6,30,Summer,"A,B,C,D,E",Economy
+SKU00143,Beverages,Fruit Drink,Mirinda,400ml,400,PET,20.0,14.0,30,Summer,"A,B,C,D,E",Economy
+SKU00144,Beverages,Fruit Drink,Mirinda,500ml,500,PET,22.0,15.4,30,Summer,"A,B,C,D,E",Economy
+SKU00145,Beverages,Fruit Drink,Mirinda,750ml,750,PET,27.0,18.9,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00146,Beverages,Fruit Drink,Mirinda,1000ml,1000,PET,32.0,22.4,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00147,Beverages,Fruit Drink,Mirinda,1500ml,1500,PET,42.0,29.4,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00148,Beverages,Fruit Drink,Appy Fizz,250ml,250,PET,17.0,11.9,30,Summer,"A,B,C,D,E",Economy
+SKU00149,Beverages,Fruit Drink,Appy Fizz,280ml,280,PET,17.6,12.32,30,Summer,"A,B,C,D,E",Economy
+SKU00150,Beverages,Fruit Drink,Appy Fizz,300ml,300,PET,18.0,12.6,30,Summer,"A,B,C,D,E",Economy
+SKU00151,Beverages,Fruit Drink,Appy Fizz,400ml,400,PET,20.0,14.0,30,Summer,"A,B,C,D,E",Economy
+SKU00152,Beverages,Fruit Drink,Appy Fizz,500ml,500,PET,22.0,15.4,30,Summer,"A,B,C,D,E",Economy
+SKU00153,Beverages,Fruit Drink,Appy Fizz,600ml,600,PET,24.0,16.8,30,Summer,"A,B,C,D,E",Economy
+SKU00154,Beverages,Fruit Drink,Appy Fizz,750ml,750,PET,27.0,18.9,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00155,Beverages,Fruit Drink,Appy Fizz,1000ml,1000,PET,32.0,22.4,30,Summer,"A,B,C,D,E",Mid-Range
+SKU00156,Beverages,Juice,Frooti,160ml,160,TetraPak,19.8,12.87,35,Summer,"A,B,C,D,E",Economy
+SKU00157,Beverages,Juice,Frooti,180ml,180,TetraPak,20.4,13.26,35,Summer,"A,B,C,D,E",Economy
+SKU00158,Beverages,Juice,Frooti,200ml,200,TetraPak,21.0,13.65,35,Summer,"A,B,C,D,E",Economy
+SKU00159,Beverages,Juice,Frooti,220ml,220,TetraPak,21.6,14.04,35,Summer,"A,B,C,D,E",Economy
+SKU00160,Beverages,Juice,Frooti,250ml,250,TetraPak,22.5,14.62,35,Summer,"A,B,C,D,E",Economy
+SKU00161,Beverages,Juice,Frooti,300ml,300,TetraPak,24.0,15.6,35,Summer,"A,B,C,D,E",Economy
+SKU00162,Beverages,Juice,Frooti,400ml,400,TetraPak,27.0,17.55,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00163,Beverages,Juice,Frooti,500ml,500,TetraPak,30.0,19.5,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00164,Beverages,Juice,Frooti,600ml,600,TetraPak,33.0,21.45,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00165,Beverages,Juice,Frooti,750ml,750,TetraPak,37.5,24.38,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00166,Beverages,Juice,Frooti,1000ml,1000,TetraPak,45.0,29.25,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00167,Beverages,Juice,Frooti,1500ml,1500,TetraPak,60.0,39.0,35,Summer,"A,B,C,D,E",Premium
+SKU00168,Beverages,Juice,Frooti,2000ml,2000,TetraPak,75.0,48.75,35,Summer,"A,B,C,D,E",Premium
+SKU00169,Beverages,Juice,Real Juice,200ml,200,TetraPak,21.0,13.65,35,Summer,"A,B,C,D,E",Economy
+SKU00170,Beverages,Juice,Real Juice,220ml,220,TetraPak,21.6,14.04,35,Summer,"A,B,C,D,E",Economy
+SKU00171,Beverages,Juice,Real Juice,250ml,250,TetraPak,22.5,14.62,35,Summer,"A,B,C,D,E",Economy
+SKU00172,Beverages,Juice,Real Juice,300ml,300,TetraPak,24.0,15.6,35,Summer,"A,B,C,D,E",Economy
+SKU00173,Beverages,Juice,Real Juice,400ml,400,TetraPak,27.0,17.55,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00174,Beverages,Juice,Real Juice,500ml,500,TetraPak,30.0,19.5,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00175,Beverages,Juice,Real Juice,600ml,600,TetraPak,33.0,21.45,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00176,Beverages,Juice,Real Juice,750ml,750,TetraPak,37.5,24.38,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00177,Beverages,Juice,Real Juice,1000ml,1000,TetraPak,45.0,29.25,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00178,Beverages,Juice,Real Juice,1500ml,1500,TetraPak,60.0,39.0,35,Summer,"A,B,C,D,E",Premium
+SKU00179,Beverages,Juice,Real Juice,2000ml,2000,TetraPak,75.0,48.75,35,Summer,"A,B,C,D,E",Premium
+SKU00180,Beverages,Juice,Tropicana,200ml,200,TetraPak,21.0,13.65,35,Summer,"A,B,C,D,E",Economy
+SKU00181,Beverages,Juice,Tropicana,220ml,220,TetraPak,21.6,14.04,35,Summer,"A,B,C,D,E",Economy
+SKU00182,Beverages,Juice,Tropicana,250ml,250,TetraPak,22.5,14.62,35,Summer,"A,B,C,D,E",Economy
+SKU00183,Beverages,Juice,Tropicana,300ml,300,TetraPak,24.0,15.6,35,Summer,"A,B,C,D,E",Economy
+SKU00184,Beverages,Juice,Tropicana,400ml,400,TetraPak,27.0,17.55,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00185,Beverages,Juice,Tropicana,500ml,500,TetraPak,30.0,19.5,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00186,Beverages,Juice,Tropicana,600ml,600,TetraPak,33.0,21.45,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00187,Beverages,Juice,Tropicana,750ml,750,TetraPak,37.5,24.38,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00188,Beverages,Juice,Tropicana,1000ml,1000,TetraPak,45.0,29.25,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00189,Beverages,Juice,Tropicana,1500ml,1500,TetraPak,60.0,39.0,35,Summer,"A,B,C,D,E",Premium
+SKU00190,Beverages,Juice,Tropicana,2000ml,2000,TetraPak,75.0,48.75,35,Summer,"A,B,C,D,E",Premium
+SKU00191,Beverages,Juice,Paper Boat,200ml,200,TetraPak,21.0,13.65,35,Summer,"A,B,C,D,E",Economy
+SKU00192,Beverages,Juice,Paper Boat,220ml,220,TetraPak,21.6,14.04,35,Summer,"A,B,C,D,E",Economy
+SKU00193,Beverages,Juice,Paper Boat,250ml,250,TetraPak,22.5,14.62,35,Summer,"A,B,C,D,E",Economy
+SKU00194,Beverages,Juice,Paper Boat,300ml,300,TetraPak,24.0,15.6,35,Summer,"A,B,C,D,E",Economy
+SKU00195,Beverages,Juice,Paper Boat,400ml,400,TetraPak,27.0,17.55,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00196,Beverages,Juice,Paper Boat,500ml,500,TetraPak,30.0,19.5,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00197,Beverages,Juice,Paper Boat,600ml,600,TetraPak,33.0,21.45,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00198,Beverages,Juice,Paper Boat,750ml,750,TetraPak,37.5,24.38,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00199,Beverages,Juice,Paper Boat,1000ml,1000,TetraPak,45.0,29.25,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00200,Beverages,Juice,B Natural,200ml,200,TetraPak,21.0,13.65,35,Summer,"A,B,C,D,E",Economy
+SKU00201,Beverages,Juice,B Natural,250ml,250,TetraPak,22.5,14.62,35,Summer,"A,B,C,D,E",Economy
+SKU00202,Beverages,Juice,B Natural,500ml,500,TetraPak,30.0,19.5,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00203,Beverages,Juice,B Natural,750ml,750,TetraPak,37.5,24.38,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00204,Beverages,Juice,B Natural,1000ml,1000,TetraPak,45.0,29.25,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00205,Beverages,Juice,B Natural,1500ml,1500,TetraPak,60.0,39.0,35,Summer,"A,B,C,D,E",Premium
+SKU00206,Beverages,Juice,Minute Maid,200ml,200,TetraPak,21.0,13.65,35,Summer,"A,B,C,D,E",Economy
+SKU00207,Beverages,Juice,Minute Maid,250ml,250,TetraPak,22.5,14.62,35,Summer,"A,B,C,D,E",Economy
+SKU00208,Beverages,Juice,Minute Maid,500ml,500,TetraPak,30.0,19.5,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00209,Beverages,Juice,Minute Maid,750ml,750,TetraPak,37.5,24.38,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00210,Beverages,Juice,Minute Maid,1000ml,1000,TetraPak,45.0,29.25,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00211,Beverages,Juice,Minute Maid,1500ml,1500,TetraPak,60.0,39.0,35,Summer,"A,B,C,D,E",Premium
+SKU00212,Beverages,Juice,Dabur Real,200ml,200,TetraPak,21.0,13.65,35,Summer,"A,B,C,D,E",Economy
+SKU00213,Beverages,Juice,Dabur Real,250ml,250,TetraPak,22.5,14.62,35,Summer,"A,B,C,D,E",Economy
+SKU00214,Beverages,Juice,Dabur Real,500ml,500,TetraPak,30.0,19.5,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00215,Beverages,Juice,Dabur Real,750ml,750,TetraPak,37.5,24.38,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00216,Beverages,Juice,Dabur Real,1000ml,1000,TetraPak,45.0,29.25,35,Summer,"A,B,C,D,E",Mid-Range
+SKU00217,Beverages,Juice,Dabur Real,1500ml,1500,TetraPak,60.0,39.0,35,Summer,"A,B,C,D,E",Premium
+SKU00218,Beverages,Energy,Sting,250ml,250,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00219,Beverages,Energy,Sting,300ml,300,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00220,Beverages,Energy,Sting,350ml,350,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00221,Beverages,Energy,Sting,500ml,500,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00222,Beverages,Energy,Sting,600ml,600,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00223,Beverages,Energy,Sting,750ml,750,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00224,Beverages,Energy,Sting,1000ml,1000,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00225,Beverages,Energy,Red Bull,250ml,250,Can,50.0,30.0,40,Summer,"A,B,C,D,E",Premium
+SKU00226,Beverages,Energy,Red Bull,350ml,350,Can,50.0,30.0,40,Summer,"A,B,C,D,E",Premium
+SKU00227,Beverages,Energy,Red Bull,500ml,500,Can,50.0,30.0,40,Summer,"A,B,C,D,E",Premium
+SKU00228,Beverages,Energy,Red Bull,750ml,750,Can,50.0,30.0,40,Summer,"A,B,C,D,E",Premium
+SKU00229,Beverages,Energy,Monster,250ml,250,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00230,Beverages,Energy,Monster,350ml,350,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00231,Beverages,Energy,Monster,500ml,500,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00232,Beverages,Energy,Monster,750ml,750,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00233,Beverages,Energy,Monster,1000ml,1000,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00234,Beverages,Energy,Gatorade,250ml,250,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00235,Beverages,Energy,Gatorade,350ml,350,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00236,Beverages,Energy,Gatorade,500ml,500,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00237,Beverages,Energy,Gatorade,600ml,600,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00238,Beverages,Energy,Gatorade,750ml,750,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00239,Beverages,Energy,Gatorade,1000ml,1000,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00240,Beverages,Energy,Glucon-D,200ml,200,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00241,Beverages,Energy,Glucon-D,250ml,250,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00242,Beverages,Energy,Glucon-D,500ml,500,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00243,Beverages,Energy,Glucon-D,750ml,750,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00244,Beverages,Energy,Glucon-D,1000ml,1000,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00245,Beverages,Energy,Electral,200ml,200,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00246,Beverages,Energy,Electral,250ml,250,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00247,Beverages,Energy,Electral,500ml,500,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00248,Beverages,Energy,Cloud 9,250ml,250,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00249,Beverages,Energy,Cloud 9,350ml,350,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00250,Beverages,Energy,Cloud 9,500ml,500,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00251,Beverages,Energy,XXX,250ml,250,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00252,Beverages,Energy,XXX,350ml,350,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00253,Beverages,Energy,XXX,500ml,500,Can,30.0,18.0,40,Summer,"A,B,C,D,E",Mid-Range
+SKU00254,Beverages,Water,Bisleri,250ml,250,PET,10.0,5.0,50,Summer,"A,B,C,D,E",Economy
+SKU00255,Beverages,Water,Bisleri,500ml,500,PET,10.0,5.0,50,Summer,"A,B,C,D,E",Economy
+SKU00256,Beverages,Water,Bisleri,600ml,600,PET,20.0,10.0,50,Summer,"A,B,C,D,E",Economy
+SKU00257,Beverages,Water,Bisleri,750ml,750,PET,20.0,10.0,50,Summer,"A,B,C,D,E",Economy
+SKU00258,Beverages,Water,Bisleri,1000ml,1000,PET,20.0,10.0,50,Summer,"A,B,C,D,E",Economy
+SKU00259,Beverages,Water,Bisleri,1500ml,1500,PET,50.0,25.0,50,Summer,"A,B,C,D,E",Premium
+SKU00260,Beverages,Water,Bisleri,2000ml,2000,PET,50.0,25.0,50,Summer,"A,B,C,D,E",Premium
+SKU00261,Beverages,Water,Bisleri,5000ml,5000,PET,50.0,25.0,50,Summer,"A,B,C,D,E",Premium
+SKU00262,Beverages,Water,Kinley,250ml,250,PET,10.0,5.0,50,Summer,"A,B,C,D,E",Economy
+SKU00263,Beverages,Water,Kinley,500ml,500,PET,10.0,5.0,50,Summer,"A,B,C,D,E",Economy
+SKU00264,Beverages,Water,Kinley,600ml,600,PET,20.0,10.0,50,Summer,"A,B,C,D,E",Economy
+SKU00265,Beverages,Water,Kinley,750ml,750,PET,20.0,10.0,50,Summer,"A,B,C,D,E",Economy
+SKU00266,Beverages,Water,Kinley,1000ml,1000,PET,20.0,10.0,50,Summer,"A,B,C,D,E",Economy
+SKU00267,Beverages,Water,Kinley,1500ml,1500,PET,50.0,25.0,50,Summer,"A,B,C,D,E",Premium
+SKU00268,Beverages,Water,Kinley,2000ml,2000,PET,50.0,25.0,50,Summer,"A,B,C,D,E",Premium
+SKU00269,Beverages,Water,Kinley,5000ml,5000,PET,50.0,25.0,50,Summer,"A,B,C,D,E",Premium
+SKU00270,Beverages,Water,Aquafina,500ml,500,PET,10.0,5.0,50,Summer,"A,B,C,D,E",Economy
+SKU00271,Beverages,Water,Aquafina,1000ml,1000,PET,20.0,10.0,50,Summer,"A,B,C,D,E",Economy
+SKU00272,Beverages,Water,Aquafina,2000ml,2000,PET,50.0,25.0,50,Summer,"A,B,C,D,E",Premium
+SKU00273,Beverages,Water,Aquafina,5000ml,5000,PET,50.0,25.0,50,Summer,"A,B,C,D,E",Premium
+SKU00274,Beverages,Water,Himalayan,500ml,500,PET,10.0,5.0,50,Summer,"A,B,C,D,E",Economy
+SKU00275,Beverages,Water,Himalayan,1000ml,1000,PET,20.0,10.0,50,Summer,"A,B,C,D,E",Economy
+SKU00276,Beverages,Water,Himalayan,2000ml,2000,PET,50.0,25.0,50,Summer,"A,B,C,D,E",Premium
+SKU00277,Beverages,Water,Rail Neer,500ml,500,PET,10.0,5.0,50,Summer,"A,B,C,D,E",Economy
+SKU00278,Beverages,Water,Rail Neer,1000ml,1000,PET,20.0,10.0,50,Summer,"A,B,C,D,E",Economy
+SKU00279,Beverages,RTD,Nescafe,180ml,180,Can,28.6,18.3,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00280,Beverages,RTD,Nescafe,200ml,200,Can,29.0,18.56,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00281,Beverages,RTD,Nescafe,250ml,250,Can,30.0,19.2,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00282,Beverages,RTD,Nescafe,300ml,300,TetraPak,31.0,19.84,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00283,Beverages,RTD,Nescafe,500ml,500,TetraPak,35.0,22.4,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00284,Beverages,RTD,Bru,180ml,180,Can,28.6,18.3,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00285,Beverages,RTD,Bru,200ml,200,Can,29.0,18.56,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00286,Beverages,RTD,Bru,250ml,250,Can,30.0,19.2,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00287,Beverages,RTD,Bru,300ml,300,TetraPak,31.0,19.84,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00288,Beverages,RTD,Bru,500ml,500,TetraPak,35.0,22.4,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00289,Beverages,RTD,Cold Coffee,200ml,200,Can,29.0,18.56,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00290,Beverages,RTD,Cold Coffee,250ml,250,Can,30.0,19.2,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00291,Beverages,RTD,Cold Coffee,300ml,300,TetraPak,31.0,19.84,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00292,Beverages,RTD,Cold Coffee,500ml,500,TetraPak,35.0,22.4,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00293,Beverages,RTD,Tata Tea,200ml,200,Can,29.0,18.56,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00294,Beverages,RTD,Tata Tea,250ml,250,Can,30.0,19.2,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00295,Beverages,RTD,Tata Tea,500ml,500,TetraPak,35.0,22.4,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00296,Beverages,RTD,Lipton Ice Tea,250ml,250,Can,30.0,19.2,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00297,Beverages,RTD,Lipton Ice Tea,500ml,500,TetraPak,35.0,22.4,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00298,Beverages,RTD,Lipton Ice Tea,750ml,750,TetraPak,40.0,25.6,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00299,Beverages,RTD,Nestea,250ml,250,Can,30.0,19.2,36,Summer,"A,B,C,D,E",Mid-Range
+SKU00300,Beverages,Premium Water,Evian,330ml,330,Glass Bottle,113.0,67.8,40,All Season,A,Premium
+SKU00301,Beverages,Premium Water,Evian,500ml,500,Glass Bottle,130.0,78.0,40,All Season,A,Premium
+SKU00302,Beverages,Premium Water,Evian,750ml,750,Glass Bottle,155.0,93.0,40,All Season,A,Premium
+SKU00303,Beverages,Premium Water,Evian,1000ml,1000,Glass Bottle,180.0,108.0,40,All Season,A,Premium
+SKU00304,Beverages,Premium Water,Evian,1500ml,1500,Glass Bottle,230.0,138.0,40,All Season,A,Premium
+SKU00305,Beverages,Premium Water,Perrier,330ml,330,Glass Bottle,133.0,79.8,40,All Season,A,Premium
+SKU00306,Beverages,Premium Water,Perrier,500ml,500,Glass Bottle,150.0,90.0,40,All Season,A,Premium
+SKU00307,Beverages,Premium Water,Perrier,750ml,750,Glass Bottle,175.0,105.0,40,All Season,A,Premium
+SKU00308,Beverages,Premium Water,San Pellegrino,250ml,250,Glass Bottle,125.0,75.0,40,All Season,A,Premium
+SKU00309,Beverages,Premium Water,San Pellegrino,500ml,500,Glass Bottle,150.0,90.0,40,All Season,A,Premium
+SKU00310,Beverages,Premium Water,San Pellegrino,750ml,750,Glass Bottle,175.0,105.0,40,All Season,A,Premium
+SKU00311,Beverages,Premium Water,Fiji Water,500ml,500,Glass Bottle,200.0,120.0,40,All Season,A,Premium
+SKU00312,Beverages,Premium Water,Fiji Water,1000ml,1000,Glass Bottle,250.0,150.0,40,All Season,A,Premium
+SKU00313,Beverages,Premium Water,Voss,375ml,375,Glass Bottle,187.5,112.5,40,All Season,A,Premium
+SKU00314,Beverages,Premium Water,Voss,800ml,800,Glass Bottle,230.0,138.0,40,All Season,A,Premium
+SKU00315,Beverages,Imported Energy,Red Bull,250ml,250,Can,137.5,75.62,45,All Season,A,Premium
+SKU00316,Beverages,Imported Energy,Red Bull,355ml,355,Can,153.25,84.29,45,All Season,A,Premium
+SKU00317,Beverages,Imported Energy,Red Bull,473ml,473,Can,170.95,94.02,45,All Season,A,Premium
+SKU00318,Beverages,Imported Energy,Red Bull,500ml,500,Can,175.0,96.25,45,All Season,A,Premium
+SKU00319,Beverages,Imported Energy,Monster Energy,355ml,355,Can,173.25,95.29,45,All Season,A,Premium
+SKU00320,Beverages,Imported Energy,Monster Energy,500ml,500,Can,195.0,107.25,45,All Season,A,Premium
+SKU00321,Beverages,Imported Energy,Monster Energy,553ml,553,Can,202.95,111.62,45,All Season,A,Premium
+SKU00322,Beverages,Imported Energy,Rockstar,355ml,355,Can,173.25,95.29,45,All Season,A,Premium
+SKU00323,Beverages,Imported Energy,Rockstar,500ml,500,Can,195.0,107.25,45,All Season,A,Premium
+SKU00324,Beverages,Imported Energy,Burn,250ml,250,Can,157.5,86.62,45,All Season,A,Premium
+SKU00325,Beverages,Imported Energy,Burn,500ml,500,Can,195.0,107.25,45,All Season,A,Premium
+SKU00326,Beverages,Imported Energy,Hell Energy,250ml,250,Can,157.5,86.62,45,All Season,A,Premium
+SKU00327,Beverages,Imported Energy,Hell Energy,500ml,500,Can,195.0,107.25,45,All Season,A,Premium
+SKU00328,Beverages,Imported Soft Drink,Coca-Cola Zero,330ml,330,Can,86.4,56.16,35,All Season,A,Premium
+SKU00329,Beverages,Imported Soft Drink,Coca-Cola Zero,500ml,500,Can,100.0,65.0,35,All Season,A,Premium
+SKU00330,Beverages,Imported Soft Drink,Coca-Cola Zero,750ml,750,Can,120.0,78.0,35,All Season,A,Premium
+SKU00331,Beverages,Imported Soft Drink,Coca-Cola Zero,1000ml,1000,Can,140.0,91.0,35,All Season,A,Premium
+SKU00332,Beverages,Imported Soft Drink,Pepsi Max,330ml,330,Can,86.4,56.16,35,All Season,A,Premium
+SKU00333,Beverages,Imported Soft Drink,Pepsi Max,500ml,500,Can,100.0,65.0,35,All Season,A,Premium
+SKU00334,Beverages,Imported Soft Drink,Pepsi Max,750ml,750,Can,120.0,78.0,35,All Season,A,Premium
+SKU00335,Beverages,Imported Soft Drink,Dr Pepper,330ml,330,Can,106.4,69.16,35,All Season,A,Premium
+SKU00336,Beverages,Imported Soft Drink,Dr Pepper,500ml,500,Can,120.0,78.0,35,All Season,A,Premium
+SKU00337,Beverages,Imported Soft Drink,Mountain Dew Voltage,355ml,355,Can,108.4,70.46,35,All Season,A,Premium
+SKU00338,Beverages,Imported Soft Drink,Mountain Dew Voltage,500ml,500,Can,120.0,78.0,35,All Season,A,Premium
+SKU00339,Beverages,Imported Soft Drink,Fanta Exotic,330ml,330,Can,106.4,69.16,35,All Season,A,Premium
+SKU00340,Beverages,Imported Soft Drink,Fanta Exotic,500ml,500,Can,120.0,78.0,35,All Season,A,Premium
+SKU00341,Beverages,Premium Juice,Tropicana Premium,500ml,500,TetraPak,140.0,84.0,40,All Season,A,Premium
+SKU00342,Beverages,Premium Juice,Tropicana Premium,1000ml,1000,TetraPak,200.0,120.0,40,All Season,A,Premium
+SKU00343,Beverages,Premium Juice,Tropicana Premium,1500ml,1500,TetraPak,260.0,156.0,40,All Season,A,Premium
+SKU00344,Beverages,Premium Juice,Real Activ,500ml,500,TetraPak,150.0,90.0,40,All Season,A,Premium
+SKU00345,Beverages,Premium Juice,Real Activ,1000ml,1000,TetraPak,210.0,126.0,40,All Season,A,Premium
+SKU00346,Beverages,Premium Juice,Paper Boat Premium,500ml,500,TetraPak,260.0,156.0,40,All Season,A,Premium
+SKU00347,Beverages,Premium Juice,Paper Boat Premium,1000ml,1000,TetraPak,320.0,192.0,40,All Season,A,Premium
+SKU00348,Beverages,Premium Juice,Minute Maid Pulpy,400ml,400,TetraPak,248.0,148.8,40,All Season,A,Premium
+SKU00349,Beverages,Premium Juice,Minute Maid Pulpy,1000ml,1000,TetraPak,320.0,192.0,40,All Season,A,Premium
+SKU00350,Beverages,Premium Juice,Naked Juice,450ml,450,TetraPak,254.0,152.4,40,All Season,A,Premium
+SKU00351,Beverages,Premium RTD,Starbucks Frappuccino,250ml,250,Glass Bottle,162.5,89.38,45,All Season,A,Premium
+SKU00352,Beverages,Premium RTD,Starbucks Frappuccino,281ml,281,Glass Bottle,164.05,90.23,45,All Season,A,Premium
+SKU00353,Beverages,Premium RTD,Nescafe Gold,200ml,200,Glass Bottle,110.0,60.5,45,All Season,A,Premium
+SKU00354,Beverages,Premium RTD,Nescafe Gold,250ml,250,Glass Bottle,112.5,61.88,45,All Season,A,Premium
+SKU00355,Beverages,Premium RTD,Lipton Ice Tea Premium,500ml,500,Glass Bottle,145.0,79.75,45,All Season,A,Premium
+SKU00356,Beverages,Premium RTD,Lipton Ice Tea Premium,1000ml,1000,Glass Bottle,170.0,93.5,45,All Season,A,Premium
+SKU00357,Beverages,Premium RTD,Arizona Iced Tea,500ml,500,Glass Bottle,145.0,79.75,45,All Season,A,Premium
+SKU00358,Beverages,Premium RTD,Arizona Iced Tea,680ml,680,Glass Bottle,154.0,84.7,45,All Season,A,Premium
+SKU00359,Beverages,Premium RTD,Snapple,473ml,473,Glass Bottle,143.65,79.01,45,All Season,A,Premium
+SKU00360,Beverages,Premium RTD,Snapple,500ml,500,Glass Bottle,145.0,79.75,45,All Season,A,Premium

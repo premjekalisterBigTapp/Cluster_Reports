@@ -1,0 +1,101 @@
+cluster,rank,sku_id,category,brand,sku_segment,price,margin_pct,total_revenue,total_units,margin_contribution,velocity,recommendation_score,recommendation_reason,stock_level,suggested_reorder_qty,price_strategy,pack_size
+A,1,SKU00349,Beverages,Minute Maid Pulpy,Premium,320.0,40,4668800.0,14590,1867520.0,12.83,80.3,High Revenue Generator,High,384,Competitive Pricing,1000ml
+A,2,SKU00347,Beverages,Paper Boat Premium,Premium,320.0,40,4483840.0,14012,1793536.0,13.11,40.77,High Revenue Generator,High,393,Competitive Pricing,1000ml
+A,3,SKU00312,Beverages,Fiji Water,Premium,250.0,40,3739500.0,14958,1495800.0,13.21,28.33,High Revenue Generator,High,396,Competitive Pricing,1000ml
+A,25,SKU00358,Beverages,Arizona Iced Tea,Premium,154.0,45,2465232.0,16008,1109354.4,13.75,23.42,Fast Moving Item,High,412,Premium Pricing,680ml
+A,4,SKU00346,Beverages,Paper Boat Premium,Premium,260.0,40,3708120.0,14262,1483248.0,13.02,20.57,High Revenue Generator,High,390,Competitive Pricing,500ml
+A,5,SKU00348,Beverages,Minute Maid Pulpy,Premium,248.0,40,3684288.0,14856,1473715.2,12.99,16.51,High Revenue Generator,High,389,Competitive Pricing,400ml
+A,6,SKU00343,Beverages,Tropicana Premium,Premium,260.0,40,3675880.0,14138,1470352.0,13.02,13.89,High Revenue Generator,High,390,Competitive Pricing,1500ml
+A,7,SKU00350,Beverages,Naked Juice,Premium,254.0,40,3640328.0,14332,1456131.2,12.83,11.73,High Revenue Generator,High,384,Competitive Pricing,450ml
+A,72,SKU00272,Beverages,Aquafina,Premium,50.0,50,757600.0,15152,378800.0,13.54,11.19,Fast Moving Item,High,406,Premium Pricing,2000ml
+A,8,SKU00304,Beverages,Evian,Premium,230.0,40,3370880.0,14656,1348352.0,13.05,10.63,High Revenue Generator,High,391,Competitive Pricing,1500ml
+A,9,SKU00314,Beverages,Voss,Premium,230.0,40,3359840.0,14608,1343936.0,12.92,9.25,High Revenue Generator,High,387,Competitive Pricing,800ml
+A,40,SKU00341,Beverages,Tropicana Premium,Premium,140.0,40,2062760.0,14734,825104.0,13.47,8.62,Fast Moving Item,High,404,Competitive Pricing,500ml
+A,12,SKU00325,Beverages,Burn,Premium,195.0,45,2937870.0,15066,1322041.5,13.14,8.29,High Margin Contributor,High,394,Premium Pricing,500ml
+A,13,SKU00327,Beverages,Hell Energy,Premium,195.0,45,2922270.0,14986,1315021.5,13.13,7.62,Balanced Performer,High,394,Premium Pricing,500ml
+A,10,SKU00345,Beverages,Real Activ,Premium,210.0,40,3191580.0,15198,1276632.0,12.95,7.51,High Revenue Generator,High,388,Competitive Pricing,1000ml
+A,11,SKU00311,Beverages,Fiji Water,Premium,200.0,40,3011600.0,15058,1204640.0,13.19,7.39,Balanced Performer,High,395,Competitive Pricing,500ml
+A,14,SKU00321,Beverages,Monster Energy,Premium,202.95,45,2882701.8,14204,1297215.81,13.12,6.99,Balanced Performer,High,393,Premium Pricing,553ml
+A,44,SKU00301,Beverages,Evian,Premium,130.0,40,1964820.0,15114,785928.0,13.36,6.82,Fast Moving Item,High,400,Competitive Pricing,500ml
+A,17,SKU00323,Beverages,Rockstar,Premium,195.0,45,2715180.0,13924,1221831.0,12.82,5.5,Balanced Performer,High,384,Premium Pricing,500ml
+A,18,SKU00320,Beverages,Monster Energy,Premium,195.0,45,2688660.0,13788,1209897.0,12.49,5.12,Balanced Performer,High,374,Premium Pricing,500ml
+B,1,SKU00349,Beverages,Minute Maid Pulpy,Premium,320.0,40,1144320.0,3576,457728.0,6.49,80.1,High Revenue Generator,High,194,Competitive Pricing,1000ml
+B,2,SKU00347,Beverages,Paper Boat Premium,Premium,320.0,40,1141760.0,3568,456704.0,6.53,40.12,High Revenue Generator,High,196,Competitive Pricing,1000ml
+B,3,SKU00346,Beverages,Paper Boat Premium,Premium,260.0,40,951860.0,3661,380744.0,6.55,26.8,High Revenue Generator,High,196,Competitive Pricing,500ml
+B,140,SKU00296,Beverages,Lipton Ice Tea,Mid-Range,30.0,36,118950.0,3965,42822.0,6.97,20.55,Fast Moving Item,High,209,Competitive Pricing,250ml
+B,4,SKU00343,Beverages,Tropicana Premium,Premium,260.0,40,913640.0,3514,365456.0,6.54,20.13,High Revenue Generator,High,196,Competitive Pricing,1500ml
+B,5,SKU00312,Beverages,Fiji Water,Premium,250.0,40,909750.0,3639,363900.0,6.6,16.2,High Revenue Generator,High,198,Competitive Pricing,1000ml
+B,6,SKU00348,Beverages,Minute Maid Pulpy,Premium,248.0,40,885360.0,3570,354144.0,6.6,13.52,High Revenue Generator,High,197,Competitive Pricing,400ml
+B,7,SKU00304,Beverages,Evian,Premium,230.0,40,872620.0,3794,349048.0,6.67,11.79,High Revenue Generator,High,200,Competitive Pricing,1500ml
+B,13,SKU00325,Beverages,Burn,Premium,195.0,45,714480.0,3664,321516.0,6.85,10.41,Fast Moving Item,High,205,Premium Pricing,500ml
+B,301,SKU00117,Beverages,Maaza,Economy,17.6,30,66334.4,3769,19900.32,6.92,10.26,Fast Moving Item,High,207,Value Pricing,280ml
+B,8,SKU00350,Beverages,Naked Juice,Premium,254.0,40,871220.0,3430,348488.0,6.48,10.09,High Revenue Generator,High,194,Competitive Pricing,450ml
+B,9,SKU00314,Beverages,Voss,Premium,230.0,40,865490.0,3763,346196.0,6.48,8.98,High Revenue Generator,High,194,Competitive Pricing,800ml
+B,19,SKU00318,Beverages,Red Bull,Premium,175.0,45,675850.0,3862,304132.5,6.85,8.11,Fast Moving Item,High,205,Premium Pricing,500ml
+B,11,SKU00321,Beverages,Monster Energy,Premium,202.95,45,750306.15,3697,337637.77,6.55,7.78,High Margin Contributor,High,196,Premium Pricing,553ml
+B,10,SKU00345,Beverages,Real Activ,Premium,210.0,40,797580.0,3798,319032.0,6.61,7.28,High Revenue Generator,High,198,Competitive Pricing,1000ml
+B,12,SKU00323,Beverages,Rockstar,Premium,195.0,45,722865.0,3707,325289.25,6.47,7.06,Balanced Performer,High,194,Premium Pricing,500ml
+B,267,SKU00079,Beverages,7UP,Economy,19.0,32,76456.0,4024,24465.92,6.9,6.96,Fast Moving Item,High,207,Competitive Pricing,500ml
+B,15,SKU00327,Beverages,Hell Energy,Premium,195.0,45,697710.0,3578,313969.5,6.41,5.59,Balanced Performer,High,192,Premium Pricing,500ml
+B,14,SKU00303,Beverages,Evian,Premium,180.0,40,705780.0,3921,282312.0,6.69,5.52,Balanced Performer,High,200,Competitive Pricing,1000ml
+B,358,SKU00262,Beverages,Kinley,Economy,10.0,50,36500.0,3650,18250.0,6.89,5.23,Fast Moving Item,High,206,Premium Pricing,250ml
+C,1,SKU00349,Beverages,Minute Maid Pulpy,Premium,320.0,40,1019520.0,3186,407808.0,6.45,80.07,High Revenue Generator,High,193,Competitive Pricing,1000ml
+C,2,SKU00347,Beverages,Paper Boat Premium,Premium,320.0,40,889280.0,2779,355712.0,6.09,40.06,High Revenue Generator,High,182,Competitive Pricing,1000ml
+C,3,SKU00350,Beverages,Naked Juice,Premium,254.0,40,797306.0,3139,318922.4,6.69,26.79,High Revenue Generator,High,200,Competitive Pricing,450ml
+C,186,SKU00160,Beverages,Frooti,Economy,22.5,35,90022.5,4001,31507.88,8.6,20.41,Fast Moving Item,High,258,Competitive Pricing,250ml
+C,4,SKU00346,Beverages,Paper Boat Premium,Premium,260.0,40,787540.0,3029,315016.0,6.3,20.06,High Revenue Generator,High,188,Competitive Pricing,500ml
+C,5,SKU00348,Beverages,Minute Maid Pulpy,Premium,248.0,40,759376.0,3062,303750.4,6.67,16.12,High Revenue Generator,High,200,Competitive Pricing,400ml
+C,6,SKU00343,Beverages,Tropicana Premium,Premium,260.0,40,730860.0,2811,292344.0,6.22,13.39,High Revenue Generator,High,186,Competitive Pricing,1500ml
+C,7,SKU00312,Beverages,Fiji Water,Premium,250.0,40,721250.0,2885,288500.0,6.26,11.49,High Revenue Generator,High,187,Competitive Pricing,1000ml
+C,71,SKU00177,Beverages,Real Juice,Mid-Range,45.0,35,186480.0,4144,65268.0,8.53,11.07,Fast Moving Item,High,255,Competitive Pricing,1000ml
+C,8,SKU00314,Beverages,Voss,Premium,230.0,40,704490.0,3063,281796.0,6.37,10.06,High Revenue Generator,High,191,Competitive Pricing,800ml
+C,10,SKU00325,Beverages,Burn,Premium,195.0,45,624000.0,3200,280800.0,6.78,8.59,High Revenue Generator,High,203,Premium Pricing,500ml
+C,9,SKU00304,Beverages,Evian,Premium,230.0,40,683560.0,2972,273424.0,6.5,8.53,High Revenue Generator,High,195,Competitive Pricing,1500ml
+C,174,SKU00201,Beverages,B Natural,Economy,22.5,35,92250.0,4100,32287.5,8.49,7.11,Fast Moving Item,High,254,Competitive Pricing,250ml
+C,12,SKU00321,Beverages,Monster Energy,Premium,202.95,45,596673.0,2940,268502.85,6.48,7.05,Balanced Performer,High,194,Premium Pricing,553ml
+C,11,SKU00345,Beverages,Real Activ,Premium,210.0,40,609000.0,2900,243600.0,6.56,6.39,Balanced Performer,High,196,Competitive Pricing,1000ml
+C,14,SKU00323,Beverages,Rockstar,Premium,195.0,45,584610.0,2998,263074.5,6.75,6.33,Balanced Performer,High,202,Premium Pricing,500ml
+C,83,SKU00187,Beverages,Tropicana,Mid-Range,37.5,35,151687.5,4045,53090.62,8.43,5.92,Fast Moving Item,High,252,Competitive Pricing,750ml
+C,15,SKU00327,Beverages,Hell Energy,Premium,195.0,45,582465.0,2987,262109.25,6.38,5.81,Balanced Performer,High,191,Premium Pricing,500ml
+C,13,SKU00313,Beverages,Voss,Premium,187.5,40,590812.5,3151,236325.0,6.61,5.53,Balanced Performer,High,198,Competitive Pricing,375ml
+C,16,SKU00320,Beverages,Monster Energy,Premium,195.0,45,576615.0,2957,259476.75,6.5,5.44,Balanced Performer,High,194,Premium Pricing,500ml
+D,1,SKU00312,Beverages,Fiji Water,Premium,250.0,40,1288750.0,5155,515500.0,9.95,100.0,High Revenue Generator,High,298,Competitive Pricing,1000ml
+D,2,SKU00314,Beverages,Voss,Premium,230.0,40,1124470.0,4889,449788.0,9.8,50.0,High Revenue Generator,High,293,Competitive Pricing,800ml
+D,3,SKU00304,Beverages,Evian,Premium,230.0,40,1079850.0,4695,431940.0,9.78,33.33,High Revenue Generator,High,293,Competitive Pricing,1500ml
+D,4,SKU00349,Beverages,Minute Maid Pulpy,Premium,320.0,40,976000.0,3050,390400.0,6.42,20.08,High Revenue Generator,High,192,Competitive Pricing,1000ml
+D,5,SKU00347,Beverages,Paper Boat Premium,Premium,320.0,40,936320.0,2926,374528.0,6.23,16.06,High Revenue Generator,High,186,Competitive Pricing,1000ml
+D,7,SKU00303,Beverages,Evian,Premium,180.0,40,848700.0,4715,339480.0,9.66,14.76,High Revenue Generator,High,289,Competitive Pricing,1000ml
+D,6,SKU00311,Beverages,Fiji Water,Premium,200.0,40,863800.0,4319,345520.0,9.21,13.85,High Revenue Generator,High,276,Competitive Pricing,500ml
+D,8,SKU00313,Beverages,Voss,Premium,187.5,40,834750.0,4452,333900.0,9.37,10.74,High Revenue Generator,High,281,Competitive Pricing,375ml
+D,9,SKU00350,Beverages,Naked Juice,Premium,254.0,40,825246.0,3249,330098.4,6.4,8.96,High Revenue Generator,High,191,Competitive Pricing,450ml
+D,10,SKU00343,Beverages,Tropicana Premium,Premium,260.0,40,821600.0,3160,328640.0,6.4,8.07,High Revenue Generator,High,191,Competitive Pricing,1500ml
+D,12,SKU00310,Beverages,San Pellegrino,Premium,175.0,40,785925.0,4491,314370.0,9.49,7.92,Balanced Performer,High,284,Competitive Pricing,750ml
+D,11,SKU00346,Beverages,Paper Boat Premium,Premium,260.0,40,809380.0,3113,323752.0,6.57,7.41,Balanced Performer,High,197,Competitive Pricing,500ml
+D,13,SKU00307,Beverages,Perrier,Premium,175.0,40,755125.0,4315,302050.0,9.26,6.71,Balanced Performer,High,277,Competitive Pricing,750ml
+D,63,SKU00273,Beverages,Aquafina,Premium,50.0,50,241650.0,4833,120825.0,9.74,6.36,Fast Moving Item,High,292,Premium Pricing,5000ml
+D,21,SKU00305,Beverages,Perrier,Premium,133.0,40,639863.0,4811,255945.2,9.62,6.3,Fast Moving Item,High,288,Competitive Pricing,330ml
+D,14,SKU00348,Beverages,Minute Maid Pulpy,Premium,248.0,40,743752.0,2999,297500.8,6.51,5.82,Balanced Performer,High,195,Competitive Pricing,400ml
+D,24,SKU00308,Beverages,San Pellegrino,Premium,125.0,40,595125.0,4761,238050.0,9.6,5.46,Fast Moving Item,High,287,Competitive Pricing,250ml
+D,16,SKU00302,Beverages,Evian,Premium,155.0,40,695795.0,4489,278318.0,9.31,5.41,Balanced Performer,High,279,Competitive Pricing,750ml
+D,17,SKU00306,Beverages,Perrier,Premium,150.0,40,686550.0,4577,274620.0,9.46,5.31,Balanced Performer,High,283,Competitive Pricing,500ml
+D,15,SKU00345,Beverages,Real Activ,Premium,210.0,40,706440.0,3364,282576.0,6.43,5.25,Balanced Performer,High,192,Competitive Pricing,1000ml
+E,1,SKU00349,Beverages,Minute Maid Pulpy,Premium,320.0,40,1819200.0,5685,727680.0,6.45,80.08,High Revenue Generator,High,193,Competitive Pricing,1000ml
+E,2,SKU00347,Beverages,Paper Boat Premium,Premium,320.0,40,1665280.0,5204,666112.0,6.46,40.08,High Revenue Generator,High,193,Competitive Pricing,1000ml
+E,3,SKU00343,Beverages,Tropicana Premium,Premium,260.0,40,1453140.0,5589,581256.0,6.48,26.76,High Revenue Generator,High,194,Competitive Pricing,1500ml
+E,82,SKU00055,Beverages,Leomon,Mid-Range,46.0,32,267812.0,5822,85699.84,7.02,20.92,Fast Moving Item,High,210,Competitive Pricing,2000ml
+E,4,SKU00346,Beverages,Paper Boat Premium,Premium,260.0,40,1446640.0,5564,578656.0,6.58,20.2,High Revenue Generator,High,197,Competitive Pricing,500ml
+E,5,SKU00350,Beverages,Naked Juice,Premium,254.0,40,1379982.0,5433,551992.8,6.62,16.31,High Revenue Generator,High,198,Competitive Pricing,450ml
+E,6,SKU00348,Beverages,Minute Maid Pulpy,Premium,248.0,40,1376400.0,5550,550560.0,6.45,13.41,High Revenue Generator,High,193,Competitive Pricing,400ml
+E,7,SKU00312,Beverages,Fiji Water,Premium,250.0,40,1351000.0,5404,540400.0,6.52,11.55,High Revenue Generator,High,195,Competitive Pricing,1000ml
+E,268,SKU00131,Beverages,Fanta,Economy,20.0,30,115980.0,5799,34794.0,6.81,10.29,Fast Moving Item,High,204,Value Pricing,400ml
+E,10,SKU00321,Beverages,Monster Energy,Premium,202.95,45,1138549.5,5610,512347.28,6.53,9.13,High Revenue Generator,High,195,Premium Pricing,553ml
+E,8,SKU00314,Beverages,Voss,Premium,230.0,40,1216700.0,5290,486680.0,6.28,9.06,High Revenue Generator,High,188,Competitive Pricing,800ml
+E,9,SKU00304,Beverages,Evian,Premium,230.0,40,1200600.0,5220,480240.0,6.52,8.2,High Revenue Generator,High,195,Competitive Pricing,1500ml
+E,12,SKU00323,Beverages,Rockstar,Premium,195.0,45,1105845.0,5671,497630.25,6.48,7.87,High Margin Contributor,High,194,Premium Pricing,500ml
+E,327,SKU00138,Beverages,Mirinda,Economy,16.0,30,86864.0,5429,26059.2,6.81,6.9,Fast Moving Item,High,204,Value Pricing,200ml
+E,14,SKU00325,Beverages,Burn,Premium,195.0,45,1059240.0,5432,476658.0,6.56,6.36,Balanced Performer,High,196,Premium Pricing,500ml
+E,11,SKU00345,Beverages,Real Activ,Premium,210.0,40,1107120.0,5272,442848.0,6.44,6.07,Balanced Performer,High,193,Competitive Pricing,1000ml
+E,38,SKU00341,Beverages,Tropicana Premium,Premium,140.0,40,792120.0,5658,316848.0,6.78,6.01,Fast Moving Item,High,203,Competitive Pricing,500ml
+E,15,SKU00320,Beverages,Monster Energy,Premium,195.0,45,1039740.0,5332,467883.0,6.59,5.97,Balanced Performer,High,197,Premium Pricing,500ml
+E,16,SKU00327,Beverages,Hell Energy,Premium,195.0,45,1036230.0,5314,466303.5,6.48,5.45,Balanced Performer,High,194,Premium Pricing,500ml
+E,322,SKU00002,Beverages,Campa Cola,Economy,15.0,35,88815.0,5921,31085.25,6.81,5.26,Fast Moving Item,High,204,Competitive Pricing,250ml
