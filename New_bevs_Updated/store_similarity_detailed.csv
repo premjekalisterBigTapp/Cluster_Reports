@@ -1,0 +1,121 @@
+store_id,cluster,city,region,area_type,footfall,similar_store_1,similarity_score_1,similar_city_1,similar_region_1,similar_area_1,similar_store_2,similarity_score_2,similar_city_2,similar_region_2,similar_area_2,similar_store_3,similarity_score_3,similar_city_3,similar_region_3,similar_area_3
+S0001,E,Kolkata,East,Near Schools,151,S0107,0.9006,Chennai,South,Urban,S0078,0.8829,Mumbai,West,Residential,S0070,0.7819,Kolkata,East,Urban
+S0002,E,Chennai,South,Residential,271,S0075,0.7508,Pune,West,Residential,S0014,0.7206,Delhi,North,Near Schools,S0060,0.6869,Bhubaneswar,East,Industrial
+S0003,C,Ahmedabad,West,Near Schools,443,S0090,0.8446,Mumbai,West,Hot Climate,S0068,0.7903,Hyderabad,South,Near Schools,S0111,0.724,Patna,East,Urban
+S0004,D,Bangalore,South,Industrial,93,S0105,0.8945,Hyderabad,South,Urban,S0070,0.7694,Kolkata,East,Urban,S0013,0.7412,Patna,East,Industrial
+S0005,D,Lucknow,North,Near Schools,285,S0015,0.7956,Lucknow,North,Residential,S0066,0.781,Bangalore,South,Residential,S0032,0.6865,Bhubaneswar,East,Residential
+S0006,A,Lucknow,North,Residential,297,S0045,0.9545,Bangalore,South,Hot Climate,S0050,0.9033,Bangalore,South,Hot Climate,S0114,0.831,Ahmedabad,West,Hot Climate
+S0007,E,Kolkata,East,Hot Climate,287,S0107,0.8141,Chennai,South,Urban,S0090,0.77,Mumbai,West,Hot Climate,S0001,0.6738,Kolkata,East,Near Schools
+S0008,D,Delhi,North,Hot Climate,144,S0117,0.9216,Hyderabad,South,Residential,S0083,0.751,Mumbai,West,Hot Climate,S0015,0.6689,Lucknow,North,Residential
+S0009,A,Lucknow,North,Near Schools,368,S0116,0.8832,Lucknow,North,Urban,S0022,0.771,Lucknow,North,Urban,S0095,0.7511,Bhubaneswar,East,Residential
+S0010,E,Bangalore,South,Hot Climate,178,S0118,0.8235,Bhubaneswar,East,Industrial,S0108,0.6849,Lucknow,North,Residential,S0035,0.683,Pune,West,Near Schools
+S0011,C,Hyderabad,South,Near Schools,472,S0065,0.8035,Chandigarh,North,Urban,S0075,0.7783,Pune,West,Residential,S0051,0.7684,Ahmedabad,West,Near Schools
+S0012,C,Mumbai,West,Industrial,301,S0079,0.6861,Pune,West,Hot Climate,S0111,0.6578,Patna,East,Urban,S0035,0.6467,Pune,West,Near Schools
+S0013,D,Patna,East,Industrial,145,S0098,0.8826,Chennai,South,Industrial,S0105,0.8367,Hyderabad,South,Urban,S0028,0.8213,Chandigarh,North,Hot Climate
+S0014,E,Delhi,North,Near Schools,200,S0070,0.769,Kolkata,East,Urban,S0004,0.7328,Bangalore,South,Industrial,S0002,0.7206,Chennai,South,Residential
+S0015,D,Lucknow,North,Residential,251,S0066,0.9293,Bangalore,South,Residential,S0005,0.7956,Lucknow,North,Near Schools,S0036,0.7688,Kolkata,East,Industrial
+S0016,A,Chennai,South,Residential,466,S0096,0.9103,Ahmedabad,West,Hot Climate,S0097,0.8285,Pune,West,Hot Climate,S0072,0.8052,Kolkata,East,Residential
+S0017,B,Kolkata,East,Urban,464,S0092,0.8264,Bhubaneswar,East,Near Schools,S0032,0.6826,Bhubaneswar,East,Residential,S0063,0.638,Mumbai,West,Near Schools
+S0018,E,Patna,East,Urban,334,S0075,0.737,Pune,West,Residential,S0104,0.707,Ahmedabad,West,Industrial,S0025,0.696,Mumbai,West,Industrial
+S0019,E,Lucknow,North,Hot Climate,338,S0104,0.8486,Ahmedabad,West,Industrial,S0101,0.7895,Bhubaneswar,East,Near Schools,S0088,0.7717,Mumbai,West,Residential
+S0020,E,Kolkata,East,Urban,207,S0112,0.8953,Delhi,North,Near Schools,S0078,0.8453,Mumbai,West,Residential,S0106,0.789,Chennai,South,Hot Climate
+S0021,E,Hyderabad,South,Industrial,223,S0090,0.7067,Mumbai,West,Hot Climate,S0035,0.6935,Pune,West,Near Schools,S0014,0.6903,Delhi,North,Near Schools
+S0022,A,Lucknow,North,Urban,312,S0074,0.8457,Hyderabad,South,Industrial,S0109,0.7893,Kolkata,East,Near Schools,S0009,0.771,Lucknow,North,Near Schools
+S0023,C,Pune,West,Industrial,333,S0068,0.8514,Hyderabad,South,Near Schools,S0046,0.7388,Mumbai,West,Hot Climate,S0119,0.7152,Chandigarh,North,Industrial
+S0024,A,Delhi,North,Industrial,240,S0077,0.9016,Chennai,South,Urban,S0087,0.8682,Chandigarh,North,Hot Climate,S0026,0.6721,Patna,East,Residential
+S0025,E,Mumbai,West,Industrial,450,S0099,0.8259,Bhubaneswar,East,Residential,S0018,0.696,Patna,East,Urban,S0063,0.6889,Mumbai,West,Near Schools
+S0026,A,Patna,East,Residential,356,S0120,0.791,Chandigarh,North,Urban,S0087,0.7536,Chandigarh,North,Hot Climate,S0096,0.7516,Ahmedabad,West,Hot Climate
+S0027,A,Kolkata,East,Urban,251,S0110,0.8053,Patna,East,Residential,S0031,0.7985,Pune,West,Urban,S0114,0.7131,Ahmedabad,West,Hot Climate
+S0028,D,Chandigarh,North,Hot Climate,174,S0053,0.8808,Chandigarh,North,Residential,S0052,0.8275,Mumbai,West,Urban,S0013,0.8213,Patna,East,Industrial
+S0029,E,Pune,West,Urban,302,S0108,0.8088,Lucknow,North,Residential,S0099,0.7831,Bhubaneswar,East,Residential,S0088,0.6518,Mumbai,West,Residential
+S0030,C,Bangalore,South,Urban,472,S0011,0.6646,Hyderabad,South,Near Schools,S0059,0.6385,Chandigarh,North,Urban,S0025,0.627,Mumbai,West,Industrial
+S0031,A,Pune,West,Urban,115,S0027,0.7985,Kolkata,East,Urban,S0114,0.7752,Ahmedabad,West,Hot Climate,S0110,0.745,Patna,East,Residential
+S0032,B,Bhubaneswar,East,Residential,367,S0103,0.7245,Bhubaneswar,East,Residential,S0055,0.7137,Lucknow,North,Industrial,S0080,0.7004,Lucknow,North,Residential
+S0033,A,Chennai,South,Urban,259,S0095,0.8962,Bhubaneswar,East,Residential,S0076,0.8439,Bhubaneswar,East,Urban,S0097,0.8415,Pune,West,Hot Climate
+S0034,B,Mumbai,West,Industrial,341,S0102,0.8666,Lucknow,North,Hot Climate,S0094,0.6391,Ahmedabad,West,Near Schools,S0089,0.5682,Chennai,South,Residential
+S0035,E,Pune,West,Near Schools,224,S0106,0.7006,Chennai,South,Hot Climate,S0021,0.6935,Hyderabad,South,Industrial,S0078,0.6864,Mumbai,West,Residential
+S0036,D,Kolkata,East,Industrial,208,S0066,0.7943,Bangalore,South,Residential,S0015,0.7688,Lucknow,North,Residential,S0083,0.7422,Mumbai,West,Hot Climate
+S0037,B,Delhi,North,Urban,351,S0055,0.8727,Lucknow,North,Industrial,S0089,0.7896,Chennai,South,Residential,S0080,0.6716,Lucknow,North,Residential
+S0038,E,Kolkata,East,Urban,364,S0099,0.8206,Bhubaneswar,East,Residential,S0113,0.6694,Chennai,South,Industrial,S0056,0.6116,Pune,West,Residential
+S0039,B,Lucknow,North,Industrial,368,S0044,0.7773,Mumbai,West,Hot Climate,S0043,0.6342,Chandigarh,North,Residential,S0102,0.6264,Lucknow,North,Hot Climate
+S0040,A,Chennai,South,Near Schools,175,S0086,0.884,Chandigarh,North,Urban,S0114,0.8574,Ahmedabad,West,Hot Climate,S0109,0.835,Kolkata,East,Near Schools
+S0041,C,Pune,West,Near Schools,459,S0058,0.8554,Chennai,South,Near Schools,S0091,0.6425,Mumbai,West,Near Schools,S0051,0.6378,Ahmedabad,West,Near Schools
+S0042,D,Mumbai,West,Hot Climate,91,S0071,0.7494,Chennai,South,Residential,S0046,0.7169,Mumbai,West,Hot Climate,S0008,0.6624,Delhi,North,Hot Climate
+S0043,B,Chandigarh,North,Residential,169,S0047,0.7748,Bhubaneswar,East,Hot Climate,S0102,0.697,Lucknow,North,Hot Climate,S0080,0.6884,Lucknow,North,Residential
+S0044,B,Mumbai,West,Hot Climate,328,S0069,0.8091,Chandigarh,North,Residential,S0039,0.7773,Lucknow,North,Industrial,S0058,0.7011,Chennai,South,Near Schools
+S0045,A,Bangalore,South,Hot Climate,347,S0006,0.9545,Lucknow,North,Residential,S0050,0.8801,Bangalore,South,Hot Climate,S0096,0.8244,Ahmedabad,West,Hot Climate
+S0046,C,Mumbai,West,Hot Climate,266,S0023,0.7388,Pune,West,Industrial,S0042,0.7169,Mumbai,West,Hot Climate,S0080,0.7033,Lucknow,North,Residential
+S0047,B,Bhubaneswar,East,Hot Climate,148,S0043,0.7748,Chandigarh,North,Residential,S0102,0.6666,Lucknow,North,Hot Climate,S0080,0.6197,Lucknow,North,Residential
+S0048,B,Kolkata,East,Hot Climate,121,S0093,0.7657,Patna,East,Industrial,S0060,0.6994,Bhubaneswar,East,Industrial,S0103,0.6653,Bhubaneswar,East,Residential
+S0049,C,Chennai,South,Industrial,480,S0079,0.685,Pune,West,Hot Climate,S0058,0.677,Chennai,South,Near Schools,S0091,0.6583,Mumbai,West,Near Schools
+S0050,A,Bangalore,South,Hot Climate,244,S0006,0.9033,Lucknow,North,Residential,S0045,0.8801,Bangalore,South,Hot Climate,S0114,0.8055,Ahmedabad,West,Hot Climate
+S0051,C,Ahmedabad,West,Near Schools,443,S0119,0.8591,Chandigarh,North,Industrial,S0065,0.8443,Chandigarh,North,Urban,S0058,0.7696,Chennai,South,Near Schools
+S0052,D,Mumbai,West,Urban,80,S0028,0.8275,Chandigarh,North,Hot Climate,S0083,0.7865,Mumbai,West,Hot Climate,S0053,0.7295,Chandigarh,North,Residential
+S0053,D,Chandigarh,North,Residential,123,S0028,0.8808,Chandigarh,North,Hot Climate,S0013,0.7332,Patna,East,Industrial,S0052,0.7295,Mumbai,West,Urban
+S0054,D,Lucknow,North,Near Schools,99,S0098,0.9492,Chennai,South,Industrial,S0013,0.7841,Patna,East,Industrial,S0105,0.7107,Hyderabad,South,Urban
+S0055,B,Lucknow,North,Industrial,409,S0037,0.8727,Delhi,North,Urban,S0089,0.7736,Chennai,South,Residential,S0081,0.7546,Chennai,South,Hot Climate
+S0056,E,Pune,West,Residential,395,S0115,0.7182,Bhubaneswar,East,Urban,S0099,0.6615,Bhubaneswar,East,Residential,S0085,0.6475,Bhubaneswar,East,Near Schools
+S0057,D,Delhi,North,Hot Climate,125,S0062,0.7893,Pune,West,Industrial,S0094,0.7521,Ahmedabad,West,Near Schools,S0043,0.687,Chandigarh,North,Residential
+S0058,C,Chennai,South,Near Schools,444,S0041,0.8554,Pune,West,Near Schools,S0051,0.7696,Ahmedabad,West,Near Schools,S0065,0.7388,Chandigarh,North,Urban
+S0059,E,Chandigarh,North,Urban,421,S0075,0.9132,Pune,West,Residential,S0104,0.7986,Ahmedabad,West,Industrial,S0011,0.7639,Hyderabad,South,Near Schools
+S0060,B,Bhubaneswar,East,Industrial,276,S0048,0.6994,Kolkata,East,Hot Climate,S0081,0.6904,Chennai,South,Hot Climate,S0002,0.6869,Chennai,South,Residential
+S0061,D,Kolkata,East,Hot Climate,157,S0098,0.75,Chennai,South,Industrial,S0064,0.7233,Bhubaneswar,East,Industrial,S0054,0.6996,Lucknow,North,Near Schools
+S0062,B,Pune,West,Industrial,174,S0094,0.8435,Ahmedabad,West,Near Schools,S0057,0.7893,Delhi,North,Hot Climate,S0020,0.7841,Kolkata,East,Urban
+S0063,B,Mumbai,West,Near Schools,392,S0089,0.881,Chennai,South,Residential,S0092,0.7161,Bhubaneswar,East,Near Schools,S0025,0.6889,Mumbai,West,Industrial
+S0064,C,Bhubaneswar,East,Industrial,305,S0061,0.7233,Kolkata,East,Hot Climate,S0101,0.6674,Bhubaneswar,East,Near Schools,S0059,0.6619,Chandigarh,North,Urban
+S0065,C,Chandigarh,North,Urban,414,S0051,0.8443,Ahmedabad,West,Near Schools,S0119,0.8284,Chandigarh,North,Industrial,S0011,0.8035,Hyderabad,South,Near Schools
+S0066,D,Bangalore,South,Residential,284,S0015,0.9293,Lucknow,North,Residential,S0036,0.7943,Kolkata,East,Industrial,S0005,0.781,Lucknow,North,Near Schools
+S0067,E,Bhubaneswar,East,Industrial,439,S0115,0.6689,Bhubaneswar,East,Urban,S0081,0.6622,Chennai,South,Hot Climate,S0075,0.6407,Pune,West,Residential
+S0068,C,Hyderabad,South,Near Schools,356,S0023,0.8514,Pune,West,Industrial,S0111,0.8458,Patna,East,Urban,S0003,0.7903,Ahmedabad,West,Near Schools
+S0069,B,Chandigarh,North,Residential,380,S0080,0.9215,Lucknow,North,Residential,S0044,0.8091,Mumbai,West,Hot Climate,S0032,0.6949,Bhubaneswar,East,Residential
+S0070,E,Kolkata,East,Urban,105,S0001,0.7819,Kolkata,East,Near Schools,S0004,0.7694,Bangalore,South,Industrial,S0014,0.769,Delhi,North,Near Schools
+S0071,B,Chennai,South,Residential,107,S0080,0.7803,Lucknow,North,Residential,S0042,0.7494,Mumbai,West,Hot Climate,S0004,0.705,Bangalore,South,Industrial
+S0072,A,Kolkata,East,Residential,373,S0016,0.8052,Chennai,South,Residential,S0096,0.7908,Ahmedabad,West,Hot Climate,S0097,0.7021,Pune,West,Hot Climate
+S0073,B,Lucknow,North,Residential,205,S0062,0.7436,Pune,West,Industrial,S0094,0.6326,Ahmedabad,West,Near Schools,S0112,0.6213,Delhi,North,Near Schools
+S0074,A,Hyderabad,South,Industrial,190,S0022,0.8457,Lucknow,North,Urban,S0109,0.7675,Kolkata,East,Near Schools,S0116,0.7277,Lucknow,North,Urban
+S0075,E,Pune,West,Residential,394,S0059,0.9132,Chandigarh,North,Urban,S0011,0.7783,Hyderabad,South,Near Schools,S0002,0.7508,Chennai,South,Residential
+S0076,A,Bhubaneswar,East,Urban,326,S0095,0.9215,Bhubaneswar,East,Residential,S0033,0.8439,Chennai,South,Urban,S0120,0.8099,Chandigarh,North,Urban
+S0077,A,Chennai,South,Urban,173,S0024,0.9016,Delhi,North,Industrial,S0087,0.8128,Chandigarh,North,Hot Climate,S0050,0.6932,Bangalore,South,Hot Climate
+S0078,E,Mumbai,West,Residential,197,S0001,0.8829,Kolkata,East,Near Schools,S0106,0.8804,Chennai,South,Hot Climate,S0107,0.8689,Chennai,South,Urban
+S0079,C,Pune,West,Hot Climate,461,S0091,0.919,Mumbai,West,Near Schools,S0111,0.7256,Patna,East,Urban,S0012,0.6861,Mumbai,West,Industrial
+S0080,B,Lucknow,North,Residential,251,S0069,0.9215,Chandigarh,North,Residential,S0071,0.7803,Chennai,South,Residential,S0046,0.7033,Mumbai,West,Hot Climate
+S0081,B,Chennai,South,Hot Climate,455,S0055,0.7546,Lucknow,North,Industrial,S0075,0.7133,Pune,West,Residential,S0060,0.6904,Bhubaneswar,East,Industrial
+S0082,E,Lucknow,North,Urban,308,S0094,0.9333,Ahmedabad,West,Near Schools,S0019,0.7332,Lucknow,North,Hot Climate,S0062,0.709,Pune,West,Industrial
+S0083,D,Mumbai,West,Hot Climate,121,S0052,0.7865,Mumbai,West,Urban,S0008,0.751,Delhi,North,Hot Climate,S0036,0.7422,Kolkata,East,Industrial
+S0084,A,Patna,East,Urban,232,S0095,0.8875,Bhubaneswar,East,Residential,S0086,0.8324,Chandigarh,North,Urban,S0033,0.8211,Chennai,South,Urban
+S0085,A,Bhubaneswar,East,Near Schools,470,S0087,0.8062,Chandigarh,North,Hot Climate,S0026,0.7133,Patna,East,Residential,S0027,0.7123,Kolkata,East,Urban
+S0086,A,Chandigarh,North,Urban,176,S0040,0.884,Chennai,South,Near Schools,S0084,0.8324,Patna,East,Urban,S0114,0.8185,Ahmedabad,West,Hot Climate
+S0087,A,Chandigarh,North,Hot Climate,238,S0024,0.8682,Delhi,North,Industrial,S0077,0.8128,Chennai,South,Urban,S0085,0.8062,Bhubaneswar,East,Near Schools
+S0088,E,Mumbai,West,Residential,490,S0101,0.8856,Bhubaneswar,East,Near Schools,S0104,0.7739,Ahmedabad,West,Industrial,S0099,0.7717,Bhubaneswar,East,Residential
+S0089,B,Chennai,South,Residential,381,S0063,0.881,Mumbai,West,Near Schools,S0037,0.7896,Delhi,North,Urban,S0055,0.7736,Lucknow,North,Industrial
+S0090,E,Mumbai,West,Hot Climate,407,S0003,0.8446,Ahmedabad,West,Near Schools,S0007,0.77,Kolkata,East,Hot Climate,S0021,0.7067,Hyderabad,South,Industrial
+S0091,C,Mumbai,West,Near Schools,486,S0079,0.919,Pune,West,Hot Climate,S0049,0.6583,Chennai,South,Industrial,S0041,0.6425,Pune,West,Near Schools
+S0092,E,Bhubaneswar,East,Near Schools,478,S0017,0.8264,Kolkata,East,Urban,S0063,0.7161,Mumbai,West,Near Schools,S0019,0.7004,Lucknow,North,Hot Climate
+S0093,B,Patna,East,Industrial,104,S0048,0.7657,Kolkata,East,Hot Climate,S0055,0.5732,Lucknow,North,Industrial,S0004,0.5706,Bangalore,South,Industrial
+S0094,E,Ahmedabad,West,Near Schools,261,S0082,0.9333,Lucknow,North,Urban,S0062,0.8435,Pune,West,Industrial,S0057,0.7521,Delhi,North,Hot Climate
+S0095,A,Bhubaneswar,East,Residential,235,S0076,0.9215,Bhubaneswar,East,Urban,S0033,0.8962,Chennai,South,Urban,S0084,0.8875,Patna,East,Urban
+S0096,A,Ahmedabad,West,Hot Climate,439,S0016,0.9103,Chennai,South,Residential,S0045,0.8244,Bangalore,South,Hot Climate,S0072,0.7908,Kolkata,East,Residential
+S0097,A,Pune,West,Hot Climate,384,S0033,0.8415,Chennai,South,Urban,S0016,0.8285,Chennai,South,Residential,S0076,0.7864,Bhubaneswar,East,Urban
+S0098,D,Chennai,South,Industrial,192,S0054,0.9492,Lucknow,North,Near Schools,S0013,0.8826,Patna,East,Industrial,S0105,0.8168,Hyderabad,South,Urban
+S0099,E,Bhubaneswar,East,Residential,445,S0025,0.8259,Mumbai,West,Industrial,S0038,0.8206,Kolkata,East,Urban,S0029,0.7831,Pune,West,Urban
+S0100,C,Ahmedabad,West,Near Schools,334,S0054,0.6653,Lucknow,North,Near Schools,S0098,0.6108,Chennai,South,Industrial,S0061,0.5979,Kolkata,East,Hot Climate
+S0101,E,Bhubaneswar,East,Near Schools,479,S0088,0.8856,Mumbai,West,Residential,S0019,0.7895,Lucknow,North,Hot Climate,S0111,0.6704,Patna,East,Urban
+S0102,B,Lucknow,North,Hot Climate,226,S0034,0.8666,Mumbai,West,Industrial,S0043,0.697,Chandigarh,North,Residential,S0047,0.6666,Bhubaneswar,East,Hot Climate
+S0103,B,Bhubaneswar,East,Residential,274,S0032,0.7245,Bhubaneswar,East,Residential,S0048,0.6653,Kolkata,East,Hot Climate,S0063,0.6365,Mumbai,West,Near Schools
+S0104,E,Ahmedabad,West,Industrial,421,S0019,0.8486,Lucknow,North,Hot Climate,S0059,0.7986,Chandigarh,North,Urban,S0088,0.7739,Mumbai,West,Residential
+S0105,D,Hyderabad,South,Urban,93,S0004,0.8945,Bangalore,South,Industrial,S0013,0.8367,Patna,East,Industrial,S0098,0.8168,Chennai,South,Industrial
+S0106,E,Chennai,South,Hot Climate,188,S0108,0.9162,Lucknow,North,Residential,S0078,0.8804,Mumbai,West,Residential,S0112,0.8568,Delhi,North,Near Schools
+S0107,E,Chennai,South,Urban,244,S0001,0.9006,Kolkata,East,Near Schools,S0078,0.8689,Mumbai,West,Residential,S0007,0.8141,Kolkata,East,Hot Climate
+S0108,E,Lucknow,North,Residential,252,S0106,0.9162,Chennai,South,Hot Climate,S0029,0.8088,Pune,West,Urban,S0115,0.7548,Bhubaneswar,East,Urban
+S0109,A,Kolkata,East,Near Schools,260,S0040,0.835,Chennai,South,Near Schools,S0114,0.7968,Ahmedabad,West,Hot Climate,S0022,0.7893,Lucknow,North,Urban
+S0110,A,Patna,East,Residential,134,S0027,0.8053,Kolkata,East,Urban,S0114,0.7948,Ahmedabad,West,Hot Climate,S0031,0.745,Pune,West,Urban
+S0111,C,Patna,East,Urban,444,S0068,0.8458,Hyderabad,South,Near Schools,S0079,0.7256,Pune,West,Hot Climate,S0003,0.724,Ahmedabad,West,Near Schools
+S0112,E,Delhi,North,Near Schools,183,S0020,0.8953,Kolkata,East,Urban,S0106,0.8568,Chennai,South,Hot Climate,S0078,0.7971,Mumbai,West,Residential
+S0113,E,Chennai,South,Industrial,354,S0078,0.7332,Mumbai,West,Residential,S0115,0.684,Bhubaneswar,East,Urban,S0035,0.6822,Pune,West,Near Schools
+S0114,A,Ahmedabad,West,Hot Climate,160,S0040,0.8574,Chennai,South,Near Schools,S0006,0.831,Lucknow,North,Residential,S0045,0.8212,Bangalore,South,Hot Climate
+S0115,E,Bhubaneswar,East,Urban,444,S0108,0.7548,Lucknow,North,Residential,S0088,0.7382,Mumbai,West,Residential,S0056,0.7182,Pune,West,Residential
+S0116,A,Lucknow,North,Urban,450,S0009,0.8832,Lucknow,North,Near Schools,S0074,0.7277,Hyderabad,South,Industrial,S0022,0.7162,Lucknow,North,Urban
+S0117,D,Hyderabad,South,Residential,182,S0008,0.9216,Delhi,North,Hot Climate,S0015,0.7569,Lucknow,North,Residential,S0066,0.7115,Bangalore,South,Residential
+S0118,D,Bhubaneswar,East,Industrial,118,S0010,0.8235,Bangalore,South,Hot Climate,S0035,0.609,Pune,West,Near Schools,S0098,0.5921,Chennai,South,Industrial
+S0119,C,Chandigarh,North,Industrial,461,S0051,0.8591,Ahmedabad,West,Near Schools,S0065,0.8284,Chandigarh,North,Urban,S0011,0.7527,Hyderabad,South,Near Schools
+S0120,A,Chandigarh,North,Urban,397,S0076,0.8099,Bhubaneswar,East,Urban,S0026,0.791,Patna,East,Residential,S0009,0.7468,Lucknow,North,Near Schools

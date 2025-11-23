@@ -1,0 +1,181 @@
+cluster,sku_id,category,brand,total_revenue,total_units,velocity,action,suggested_replacement,reason
+A,SKU00001,Beverages,Campa Cola,37856.0,2704,6.26,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00002,Beverages,Campa Cola,43635.0,2909,6.45,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00003,Beverages,Campa Cola,45392.0,2837,6.49,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00011,Beverages,Thums Up,45024.0,3216,6.89,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00012,Beverages,Thums Up,42315.0,2821,6.5,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00013,Beverages,Thums Up,45040.0,2815,6.61,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00021,Beverages,Coca-Cola,38304.0,2736,6.39,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00022,Beverages,Coca-Cola,42045.0,2803,6.43,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00031,Beverages,Pepsi,40502.0,2893,6.52,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00032,Beverages,Pepsi,41475.0,2765,6.24,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00041,Beverages,RC Cola,38205.0,2547,6.35,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00046,Beverages,Leomon,36053.6,2651,6.39,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00047,Beverages,Leomon,44065.5,3039,6.64,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00048,Beverages,Leomon,42904.4,2786,6.43,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00056,Beverages,Limca,37468.0,2755,6.58,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00057,Beverages,Limca,39715.5,2739,6.46,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00058,Beverages,Limca,42196.0,2740,6.49,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00066,Beverages,Sprite,41602.4,3059,6.36,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00067,Beverages,Sprite,39150.0,2700,6.08,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00068,Beverages,Sprite,44074.8,2862,6.43,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00076,Beverages,7UP,41316.8,3038,6.8,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00077,Beverages,7UP,44196.0,3048,6.61,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00078,Beverages,7UP,40686.8,2642,6.38,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00086,Beverages,Mountain Dew,37743.5,2603,6.41,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00092,Beverages,Bovonto,42640.0,2600,6.42,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00102,Beverages,Slice,45200.0,2825,6.59,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00103,Beverages,Slice,44903.2,2738,6.49,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00114,Beverages,Maaza,43280.0,2705,6.15,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00139,Beverages,Mirinda,42836.8,2612,6.75,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00254,Beverages,Bisleri,29670.0,2967,6.48,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00255,Beverages,Bisleri,28910.0,2891,6.62,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00262,Beverages,Kinley,25580.0,2558,6.32,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00263,Beverages,Kinley,28810.0,2881,6.7,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00270,Beverages,Aquafina,28860.0,2886,6.43,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00274,Beverages,Himalayan,26370.0,2637,6.53,Consider Removal,SKU00349,Low Sales Performance
+A,SKU00277,Beverages,Rail Neer,27470.0,2747,6.33,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00001,Beverages,Campa Cola,49840.0,3560,6.65,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00002,Beverages,Campa Cola,52230.0,3482,6.45,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00003,Beverages,Campa Cola,58000.0,3625,6.64,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00011,Beverages,Thums Up,48594.0,3471,6.3,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00012,Beverages,Thums Up,51150.0,3410,6.39,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00013,Beverages,Thums Up,56784.0,3549,6.28,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00021,Beverages,Coca-Cola,49196.0,3514,6.54,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00022,Beverages,Coca-Cola,55005.0,3667,6.46,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00023,Beverages,Coca-Cola,56416.0,3526,6.42,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00031,Beverages,Pepsi,56322.0,4023,6.54,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00032,Beverages,Pepsi,54390.0,3626,6.57,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00041,Beverages,RC Cola,56550.0,3770,6.77,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00046,Beverages,Leomon,51367.2,3777,6.45,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00047,Beverages,Leomon,48415.5,3339,6.51,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00048,Beverages,Leomon,58304.4,3786,6.8,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00056,Beverages,Limca,53080.8,3903,6.48,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00057,Beverages,Limca,52229.0,3602,6.48,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00058,Beverages,Limca,53022.2,3443,6.26,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00066,Beverages,Sprite,51421.6,3781,6.67,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00067,Beverages,Sprite,48633.0,3354,6.65,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00068,Beverages,Sprite,54485.2,3538,6.54,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00076,Beverages,7UP,51013.6,3751,6.5,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00077,Beverages,7UP,52707.5,3635,6.53,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00078,Beverages,7UP,57472.8,3732,6.46,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00086,Beverages,Mountain Dew,56651.5,3907,6.51,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00093,Beverages,Bovonto,58684.0,3452,6.61,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00102,Beverages,Slice,55376.0,3461,6.62,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00128,Beverages,Fanta,58089.0,3417,6.32,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00148,Beverages,Appy Fizz,58735.0,3455,6.33,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00254,Beverages,Bisleri,34180.0,3418,6.21,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00255,Beverages,Bisleri,40090.0,4009,6.82,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00262,Beverages,Kinley,36500.0,3650,6.89,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00263,Beverages,Kinley,37390.0,3739,6.21,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00270,Beverages,Aquafina,35120.0,3512,6.29,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00274,Beverages,Himalayan,38590.0,3859,6.83,Consider Removal,SKU00349,Low Sales Performance
+B,SKU00277,Beverages,Rail Neer,38380.0,3838,6.77,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00001,Beverages,Campa Cola,41258.0,2947,6.7,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00002,Beverages,Campa Cola,41055.0,2737,6.64,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00003,Beverages,Campa Cola,43520.0,2720,6.25,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00011,Beverages,Thums Up,41174.0,2941,6.55,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00012,Beverages,Thums Up,41700.0,2780,6.44,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00013,Beverages,Thums Up,45360.0,2835,6.27,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00021,Beverages,Coca-Cola,41594.0,2971,6.59,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00022,Beverages,Coca-Cola,42765.0,2851,6.51,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00023,Beverages,Coca-Cola,50048.0,3128,6.37,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00031,Beverages,Pepsi,41916.0,2994,6.87,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00032,Beverages,Pepsi,43215.0,2881,6.36,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00033,Beverages,Pepsi,47232.0,2952,6.56,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00041,Beverages,RC Cola,43905.0,2927,6.12,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00046,Beverages,Leomon,35074.4,2579,6.2,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00047,Beverages,Leomon,38294.5,2641,6.32,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00048,Beverages,Leomon,43782.2,2843,6.35,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00056,Beverages,Limca,41140.0,3025,6.46,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00057,Beverages,Limca,40208.5,2773,6.46,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00058,Beverages,Limca,43258.6,2809,6.27,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00066,Beverages,Sprite,42527.2,3127,6.54,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00067,Beverages,Sprite,43935.0,3030,6.7,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00068,Beverages,Sprite,46631.2,3028,6.58,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00076,Beverages,7UP,39902.4,2934,6.67,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00077,Beverages,7UP,40730.5,2809,6.49,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00078,Beverages,7UP,46061.4,2991,6.57,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00086,Beverages,Mountain Dew,37497.0,2586,6.45,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00087,Beverages,Mountain Dew,53086.0,2794,6.7,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00126,Beverages,Fanta,54960.0,3435,7.88,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00254,Beverages,Bisleri,29990.0,2999,6.45,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00255,Beverages,Bisleri,29110.0,2911,6.48,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00262,Beverages,Kinley,33590.0,3359,6.61,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00263,Beverages,Kinley,29820.0,2982,6.55,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00270,Beverages,Aquafina,31520.0,3152,6.66,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00274,Beverages,Himalayan,30100.0,3010,6.46,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00277,Beverages,Rail Neer,29380.0,2938,6.29,Consider Removal,SKU00349,Low Sales Performance
+C,SKU00278,Beverages,Rail Neer,53060.0,2653,6.26,Consider Removal,SKU00349,Low Sales Performance
+D,SKU00001,Beverages,Campa Cola,45388.0,3242,6.68,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00002,Beverages,Campa Cola,45930.0,3062,6.5,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00003,Beverages,Campa Cola,47440.0,2965,6.63,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00011,Beverages,Thums Up,43834.0,3131,6.36,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00012,Beverages,Thums Up,43980.0,2932,6.43,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00013,Beverages,Thums Up,50032.0,3127,6.67,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00021,Beverages,Coca-Cola,44212.0,3158,6.48,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00022,Beverages,Coca-Cola,48195.0,3213,6.35,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00023,Beverages,Coca-Cola,46688.0,2918,6.25,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00031,Beverages,Pepsi,41090.0,2935,6.54,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00032,Beverages,Pepsi,48345.0,3223,6.79,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00033,Beverages,Pepsi,50416.0,3151,6.68,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00041,Beverages,RC Cola,47715.0,3181,6.68,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00046,Beverages,Leomon,43560.8,3203,6.36,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00047,Beverages,Leomon,43558.0,3004,6.28,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00048,Beverages,Leomon,45722.6,2969,6.43,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00056,Beverages,Limca,40378.4,2969,6.47,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00057,Beverages,Limca,43369.5,2991,6.3,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00058,Beverages,Limca,44583.0,2895,6.43,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00066,Beverages,Sprite,40256.0,2960,6.37,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00067,Beverages,Sprite,41542.5,2865,6.53,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00068,Beverages,Sprite,48771.8,3167,6.49,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00076,Beverages,7UP,44540.0,3275,6.7,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00077,Beverages,7UP,46791.5,3227,6.49,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00078,Beverages,7UP,50019.2,3248,6.57,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00086,Beverages,Mountain Dew,42760.5,2949,6.44,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00091,Beverages,Bovonto,47136.0,2946,6.38,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00104,Beverages,Slice,48501.0,2853,6.12,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00138,Beverages,Mirinda,48048.0,3003,6.4,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00254,Beverages,Bisleri,47330.0,4733,9.48,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00255,Beverages,Bisleri,43380.0,4338,9.56,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00262,Beverages,Kinley,47570.0,4757,9.51,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00263,Beverages,Kinley,45920.0,4592,9.49,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00270,Beverages,Aquafina,43290.0,4329,9.31,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00274,Beverages,Himalayan,46180.0,4618,9.58,Consider Removal,SKU00312,Low Sales Performance
+D,SKU00277,Beverages,Rail Neer,41530.0,4153,9.4,Consider Removal,SKU00312,Low Sales Performance
+E,SKU00001,Beverages,Campa Cola,76244.0,5446,6.7,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00011,Beverages,Thums Up,76972.0,5498,6.5,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00012,Beverages,Thums Up,77760.0,5184,6.35,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00013,Beverages,Thums Up,82176.0,5136,6.36,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00021,Beverages,Coca-Cola,78610.0,5615,6.46,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00022,Beverages,Coca-Cola,82770.0,5518,6.62,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00031,Beverages,Pepsi,77056.0,5504,6.55,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00032,Beverages,Pepsi,76020.0,5068,6.33,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00033,Beverages,Pepsi,84816.0,5301,6.56,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00041,Beverages,RC Cola,84420.0,5628,6.5,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00046,Beverages,Leomon,70638.4,5194,6.48,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00047,Beverages,Leomon,83433.0,5754,6.7,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00048,Beverages,Leomon,84515.2,5488,6.67,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00056,Beverages,Limca,69999.2,5147,6.46,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00057,Beverages,Limca,78691.5,5427,6.63,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00058,Beverages,Limca,86994.6,5649,6.49,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00066,Beverages,Sprite,72515.2,5332,6.3,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00067,Beverages,Sprite,82461.5,5687,6.57,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00068,Beverages,Sprite,86809.8,5637,6.69,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00076,Beverages,7UP,73752.8,5423,6.37,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00077,Beverages,7UP,80678.0,5564,6.58,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00078,Beverages,7UP,79587.2,5168,6.36,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00086,Beverages,Mountain Dew,77125.5,5319,6.36,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00091,Beverages,Bovonto,85152.0,5322,6.49,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00102,Beverages,Slice,85376.0,5336,6.48,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00114,Beverages,Maaza,87120.0,5445,6.52,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00126,Beverages,Fanta,83808.0,5238,6.46,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00127,Beverages,Fanta,85362.0,5205,6.61,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00138,Beverages,Mirinda,86864.0,5429,6.81,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00254,Beverages,Bisleri,55380.0,5538,6.55,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00255,Beverages,Bisleri,56380.0,5638,6.53,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00262,Beverages,Kinley,52250.0,5225,6.43,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00263,Beverages,Kinley,53500.0,5350,6.48,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00270,Beverages,Aquafina,53240.0,5324,6.62,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00274,Beverages,Himalayan,55080.0,5508,6.48,Consider Removal,SKU00349,Low Sales Performance
+E,SKU00277,Beverages,Rail Neer,54070.0,5407,6.5,Consider Removal,SKU00349,Low Sales Performance
