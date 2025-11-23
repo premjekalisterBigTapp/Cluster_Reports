@@ -1,0 +1,16 @@
+sku_id,sales_value,sales_units,cluster,category,brand,price,margin_pct,sku_segment
+SKU00349,4668800.0,14590,A,Beverages,Minute Maid Pulpy,320.0,40,Premium
+SKU00347,4483840.0,14012,A,Beverages,Paper Boat Premium,320.0,40,Premium
+SKU00312,3739500.0,14958,A,Beverages,Fiji Water,250.0,40,Premium
+SKU00349,1144320.0,3576,B,Beverages,Minute Maid Pulpy,320.0,40,Premium
+SKU00347,1141760.0,3568,B,Beverages,Paper Boat Premium,320.0,40,Premium
+SKU00346,951860.0,3661,B,Beverages,Paper Boat Premium,260.0,40,Premium
+SKU00349,1019520.0,3186,C,Beverages,Minute Maid Pulpy,320.0,40,Premium
+SKU00347,889280.0,2779,C,Beverages,Paper Boat Premium,320.0,40,Premium
+SKU00350,797306.0,3139,C,Beverages,Naked Juice,254.0,40,Premium
+SKU00312,1288750.0,5155,D,Beverages,Fiji Water,250.0,40,Premium
+SKU00314,1124470.0,4889,D,Beverages,Voss,230.0,40,Premium
+SKU00304,1079850.0,4695,D,Beverages,Evian,230.0,40,Premium
+SKU00349,1819200.0,5685,E,Beverages,Minute Maid Pulpy,320.0,40,Premium
+SKU00347,1665280.0,5204,E,Beverages,Paper Boat Premium,320.0,40,Premium
+SKU00343,1453140.0,5589,E,Beverages,Tropicana Premium,260.0,40,Premium

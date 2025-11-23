@@ -1,5 +1,6 @@
 cluster_id,store_count,persona_name,avg_footfall,avg_temperature,avg_income,avg_cooler_capacity,dominant_region
-A,19,Low Footfall | Warm Climate | Mid Income,156.05,28.6,5.53,1149.47,North
-B,55,High Footfall | Warm Climate | Mid Income,304.09,32.55,4.84,695.29,East
+A,28,Medium Footfall | Warm Climate | High Income,288.11,30.43,8.18,938.75,East
+B,22,Medium Footfall | Warm Climate | Mid Income,285.95,30.85,5.14,1014.82,North
 C,18,High Footfall | Moderate Climate | Low Income,409.67,26.0,3.83,996.17,West
-D,28,Medium Footfall | Warm Climate | High Income,288.11,30.43,8.18,938.75,East
+D,19,Low Footfall | Warm Climate | Mid Income,156.05,28.6,5.53,1149.47,North
+E,33,High Footfall | Warm Climate | Mid Income,316.18,33.68,4.64,482.27,East
